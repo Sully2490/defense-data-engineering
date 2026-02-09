@@ -1,0 +1,162 @@
+supplier_name,certification_name,cert_number,issued_date,expiry_date,status
+Apex Precision Machining,AS9100D,AS-12345-2024,2024-03-15,2027-03-14,active
+Apex Precision Machining,ISO 9001:2015,ISO-9001-54321,2024-01-10,2027-01-09,active
+Apex Precision Machining,CAGE Code Active,7K4M9,2020-06-01,,active
+Apex Precision Machining,SAM Registered,JK3L9MNPQR12,2023-11-20,2024-11-19,active
+Titan Aerospace Materials,ITAR Registered,M-38472,2023-05-12,2024-05-11,active
+Titan Aerospace Materials,ISO 9001:2015,ISO-9001-67890,2023-09-08,2026-09-07,active
+Titan Aerospace Materials,CAGE Code Active,2H8T5,2018-03-22,,active
+Titan Aerospace Materials,SAM Registered,MN4P6QRSTU34,2023-10-15,2024-10-14,active
+Patriot Defense Systems,CMMC Level 2,CMMC-L2-9876,2025-01-20,2028-01-19,active
+Patriot Defense Systems,ITAR Registered,M-45892,2024-02-28,2025-02-27,active
+Patriot Defense Systems,ISO 9001:2015,ISO-9001-11223,2024-06-05,2027-06-04,active
+Patriot Defense Systems,NIST 800-171,NIST-171-3344,2024-11-12,2027-11-11,active
+Patriot Defense Systems,CAGE Code Active,9R3J7,2019-08-14,,active
+Forge & Alloy Corp,NADCAP,NAD-987654,2024-07-22,2025-07-21,active
+Forge & Alloy Corp,ISO 9001:2015,ISO-9001-33445,2023-12-18,2026-12-17,active
+Forge & Alloy Corp,Mil-Spec Qualified,MIL-QP-7845,2024-04-09,,active
+Forge & Alloy Corp,CAGE Code Active,5W2N6,2017-11-30,,active
+Pacific Composites Inc,AS9100D,AS-67890-2025,2025-02-10,2028-02-09,active
+Pacific Composites Inc,ITAR Registered,M-52341,2024-08-15,2025-08-14,active
+Pacific Composites Inc,ISO 14001:2015,ISO-14001-9988,2024-05-20,2027-05-19,active
+Pacific Composites Inc,CAGE Code Active,8L9Q3,2021-01-25,,active
+Precision Sheet Metal Works,ISO 9001:2015,ISO-9001-77665,2024-03-30,2027-03-29,active
+Precision Sheet Metal Works,Small Business,SBA-2024-1234,2024-01-01,2024-12-31,active
+Precision Sheet Metal Works,CAGE Code Active,3B7D4,2020-09-12,,active
+Quantum Electronics Manufacturing,ITAR Registered,M-67823,2024-10-05,2025-10-04,active
+Quantum Electronics Manufacturing,ISO 9001:2015,ISO-9001-44556,2024-07-18,2027-07-17,active
+Quantum Electronics Manufacturing,Small Business,SBA-2024-5678,2024-01-01,2024-12-31,active
+Quantum Electronics Manufacturing,CAGE Code Active,6N2M8,2022-04-08,,active
+Velocity Machining Solutions,AS9100D,AS-33221-2024,2024-09-25,2027-09-24,active
+Velocity Machining Solutions,ISO 9001:2015,ISO-9001-99887,2024-02-14,2027-02-13,active
+Velocity Machining Solutions,Small Business,SBA-2024-9012,2024-01-01,2024-12-31,active
+Continental Fastener Supply,ISO 9001:2015,ISO-9001-22334,2023-11-11,2026-11-10,active
+Continental Fastener Supply,Small Business,SBA-2024-3456,2024-01-01,2024-12-31,active
+Continental Fastener Supply,CAGE Code Active,4T8K2,2019-07-19,,active
+Thermal Processing Systems,NADCAP,NAD-654321,2024-06-30,2025-06-29,active
+Thermal Processing Systems,ISO 9001:2015,ISO-9001-55667,2024-04-22,2027-04-21,active
+Thermal Processing Systems,CAGE Code Active,7Y3R9,2016-12-05,,active
+Electro-Mechanical Assembly,ISO 9001:2015,ISO-9001-88990,2024-08-08,2027-08-07,active
+Electro-Mechanical Assembly,Small Business,SBA-2024-7890,2024-01-01,2024-12-31,active
+Electro-Mechanical Assembly,CAGE Code Active,2M6X4,2021-05-14,,active
+Defense Materials Group,ITAR Registered,M-78934,2024-03-20,2025-03-19,active
+Defense Materials Group,ISO 9001:2015,ISO-9001-11229,2023-10-27,2026-10-26,active
+Defense Materials Group,CAGE Code Active,9Z7F1,2018-08-23,,active
+Atlantic Welding & Fabrication,AWS D17.1,AWS-D17-4567,2024-05-15,2026-05-14,active
+Atlantic Welding & Fabrication,ISO 9001:2015,ISO-9001-33448,2024-01-25,2027-01-24,active
+Atlantic Welding & Fabrication,Small Business,SBA-2024-2345,2024-01-01,2024-12-31,active
+Atlantic Welding & Fabrication,CAGE Code Active,5H8S3,2020-02-18,,active
+Aero Component Specialists,AS9100D,AS-55443-2024,2024-11-08,2027-11-07,active
+Aero Component Specialists,NADCAP,NAD-112233,2024-09-17,2025-09-16,active
+Aero Component Specialists,ISO 9001:2015,ISO-9001-66778,2024-06-12,2027-06-11,active
+Aero Component Specialists,Small Business,SBA-2024-6789,2024-01-01,2024-12-31,active
+Midwest Tool & Die,ISO 9001:2015,ISO-9001-99001,2024-07-03,2027-07-02,active
+Midwest Tool & Die,Small Business,SBA-2024-0123,2024-01-01,2024-12-31,active
+Midwest Tool & Die,CAGE Code Active,1J9P4,2019-10-29,,active
+Integrated Defense Solutions,CMMC Level 2,CMMC-L2-5544,2024-12-15,2027-12-14,active
+Integrated Defense Solutions,ITAR Registered,M-89045,2024-09-22,2025-09-21,active
+Integrated Defense Solutions,ISO 9001:2015,ISO-9001-22556,2024-03-08,2027-03-07,active
+Integrated Defense Solutions,CAGE Code Active,6R4T7,2017-06-11,,active
+Precision Casting Technologies,ISO 9001:2015,ISO-9001-77889,2023-12-20,2026-12-19,active
+Precision Casting Technologies,Mil-Spec Qualified,MIL-QP-3421,2024-02-16,,active
+Precision Casting Technologies,CAGE Code Active,3N7L2,2016-09-07,,active
+Southwest Electronics Assembly,ISO 9001:2015,ISO-9001-44667,2024-10-30,2027-10-29,active
+Southwest Electronics Assembly,Small Business,SBA-2024-4567,2024-01-01,2024-12-31,active
+Southwest Electronics Assembly,CAGE Code Active,9K5W8,2021-12-13,,active
+Advanced Materials Processing,NADCAP,NAD-998877,2024-08-25,2025-08-24,active
+Advanced Materials Processing,ISO 9001:2015,ISO-9001-11334,2024-05-19,2027-05-18,active
+Advanced Materials Processing,CAGE Code Active,4X8Q1,2018-01-31,,active
+Tactical Systems Engineering,ITAR Registered,M-90156,2024-11-28,2025-11-27,active
+Tactical Systems Engineering,CMMC Level 2,CMMC-L2-7788,2025-01-05,2028-01-04,active
+Tactical Systems Engineering,ISO 9001:2015,ISO-9001-55778,2024-04-14,2027-04-13,active
+Tactical Systems Engineering,Small Business,SBA-2024-8901,2024-01-01,2024-12-31,active
+Granite State Machining,AS9100D,AS-88776-2024,2024-06-21,2027-06-20,active
+Granite State Machining,ISO 9001:2015,ISO-9001-22445,2024-02-09,2027-02-08,active
+Granite State Machining,Small Business,SBA-2024-1234,2024-01-01,2024-12-31,active
+Composite Structures International,AS9100D,AS-11224-2024,2024-09-13,2027-09-12,active
+Composite Structures International,ITAR Registered,M-01267,2024-07-26,2025-07-25,active
+Composite Structures International,ISO 14001:2015,ISO-14001-3355,2024-03-18,2027-03-17,active
+Composite Structures International,CAGE Code Active,8A3Y7,2019-11-22,,active
+Precision Hydraulics & Pneumatics,ISO 9001:2015,ISO-9001-66889,2024-08-02,2027-08-01,active
+Precision Hydraulics & Pneumatics,Small Business,SBA-2024-5678,2024-01-01,2024-12-31,active
+Precision Hydraulics & Pneumatics,CAGE Code Active,5L6B4,2020-05-28,,active
+Digital Manufacturing Systems,ITAR Registered,M-12378,2024-10-17,2025-10-16,active
+Digital Manufacturing Systems,ISO 9001:2015,ISO-9001-99112,2024-06-25,2027-06-24,active
+Digital Manufacturing Systems,Small Business,SBA-2024-9012,2024-01-01,2024-12-31,active
+Gulf Coast Alloys,ISO 9001:2015,ISO-9001-33556,2023-11-30,2026-11-29,active
+Gulf Coast Alloys,ITAR Registered,M-23489,2024-01-22,2025-01-21,active
+Gulf Coast Alloys,CAGE Code Active,6P8N2,2017-08-16,,active
+Northeast Metal Finishing,NADCAP,NAD-556677,2024-07-09,2025-07-08,active
+Northeast Metal Finishing,ISO 9001:2015,ISO-9001-77990,2024-04-03,2027-04-02,active
+Northeast Metal Finishing,Small Business,SBA-2024-3456,2024-01-01,2024-12-31,active
+Northeast Metal Finishing,CAGE Code Active,9E2S7,2021-03-09,,active
+Robotic Integration Partners,ISO 9001:2015,ISO-9001-44778,2024-05-12,2027-05-11,active
+Robotic Integration Partners,ITAR Registered,M-34590,2024-09-06,2025-09-05,active
+Robotic Integration Partners,CAGE Code Active,3T7K4,2018-10-25,,active
+Precision NDT Services,NADCAP,NAD-223344,2024-10-11,2025-10-10,active
+Precision NDT Services,ISO 17025,ISO-17025-5566,2024-02-28,2027-02-27,active
+Precision NDT Services,Small Business,SBA-2024-7890,2024-01-01,2024-12-31,active
+Liberty Aerospace Machining,AS9100D,AS-66554-2024,2024-12-04,2027-12-03,active
+Liberty Aerospace Machining,ISO 9001:2015,ISO-9001-11445,2024-08-20,2027-08-19,active
+Liberty Aerospace Machining,Small Business,SBA-2024-2345,2024-01-01,2024-12-31,active
+Advanced Ceramics Corporation,ISO 9001:2015,ISO-9001-88223,2024-03-27,2027-03-26,active
+Advanced Ceramics Corporation,CAGE Code Active,8M1F3,2016-07-13,,active
+Southeastern Composites,AS9100D,AS-99887-2024,2024-11-19,2027-11-18,active
+Southeastern Composites,ISO 9001:2015,ISO-9001-55889,2024-07-31,2027-07-30,active
+Southeastern Composites,Small Business,SBA-2024-6789,2024-01-01,2024-12-31,active
+Mountain View Precision,ISO 9001:2015,ISO-9001-22667,2024-06-18,2027-06-17,active
+Mountain View Precision,Small Business,SBA-2024-0123,2024-01-01,2024-12-31,active
+Mountain View Precision,CAGE Code Active,1D8H7,2020-12-02,,active
+Defense Supply Chain Solutions,ISO 9001:2015,ISO-9001-77112,2023-10-09,2026-10-08,active
+Defense Supply Chain Solutions,SAM Registered,CD8E1FGHIJ56,2023-09-14,2024-09-13,active
+Defense Supply Chain Solutions,CAGE Code Active,6Y2P5,2017-04-26,,active
+Midwest Electronics Integration,ITAR Registered,M-45601,2024-08-29,2025-08-28,active
+Midwest Electronics Integration,ISO 9001:2015,ISO-9001-33778,2024-05-07,2027-05-06,active
+Midwest Electronics Integration,Small Business,SBA-2024-4567,2024-01-01,2024-12-31,active
+Alloy Metals & Materials,ISO 9001:2015,ISO-9001-99445,2023-12-12,2026-12-11,active
+Alloy Metals & Materials,ITAR Registered,M-56712,2024-02-19,2025-02-18,active
+Alloy Metals & Materials,CAGE Code Active,3Q5N8,2018-06-05,,active
+Coastal Machining & Fabrication,ISO 9001:2015,ISO-9001-66112,2024-09-23,2027-09-22,active
+Coastal Machining & Fabrication,Small Business,SBA-2024-8901,2024-01-01,2024-12-31,active
+Coastal Machining & Fabrication,CAGE Code Active,7R9W4,2021-08-17,,active
+Sierra Aerospace Components,AS9100D,AS-44332-2024,2024-10-28,2027-10-27,active
+Sierra Aerospace Components,NADCAP,NAD-778899,2024-07-15,2025-07-14,active
+Sierra Aerospace Components,ISO 9001:2015,ISO-9001-11556,2024-04-26,2027-04-25,active
+Automated Assembly Systems,ISO 9001:2015,ISO-9001-88667,2024-06-08,2027-06-07,active
+Automated Assembly Systems,ITAR Registered,M-67823,2024-11-14,2025-11-13,active
+Automated Assembly Systems,CAGE Code Active,8F3V1,2019-02-20,,active
+Quality Heat Treating,NADCAP,NAD-445566,2024-09-01,2025-08-31,active
+Quality Heat Treating,ISO 9001:2015,ISO-9001-22889,2024-03-13,2027-03-12,active
+Quality Heat Treating,Small Business,SBA-2024-1234,2024-01-01,2024-12-31,active
+Precision Wiring Systems,AS9100D,AS-77665-2024,2024-12-22,2027-12-21,active
+Precision Wiring Systems,ISO 9001:2015,ISO-9001-55223,2024-08-16,2027-08-15,active
+Precision Wiring Systems,Small Business,SBA-2024-5678,2024-01-01,2024-12-31,active
+Great Lakes Composites,AS9100D,AS-22118-2024,2024-11-03,2027-11-02,active
+Great Lakes Composites,ISO 9001:2015,ISO-9001-99334,2024-07-29,2027-07-28,active
+Great Lakes Composites,Small Business,SBA-2024-9012,2024-01-01,2024-12-31,active
+Rocky Mountain Materials,ISO 9001:2015,ISO-9001-44991,2023-09-25,2026-09-24,active
+Rocky Mountain Materials,ITAR Registered,M-78934,2024-05-31,2025-05-30,active
+Rocky Mountain Materials,CAGE Code Active,4K8P3,2016-11-08,,active
+Elite Precision Engineering,AS9100D,AS-55221-2024,2024-10-06,2027-10-05,active
+Elite Precision Engineering,ISO 9001:2015,ISO-9001-77446,2024-06-14,2027-06-13,active
+Elite Precision Engineering,Small Business,SBA-2024-3456,2024-01-01,2024-12-31,active
+Patriot Fastener Corporation,ISO 9001:2015,ISO-9001-11668,2024-08-22,2027-08-21,active
+Patriot Fastener Corporation,Small Business,SBA-2024-7890,2024-01-01,2024-12-31,active
+Patriot Fastener Corporation,CAGE Code Active,2M1Y8,2020-01-15,,active
+Western Welding & Assembly,AWS D17.1,AWS-D17-8899,2024-09-18,2026-09-17,active
+Western Welding & Assembly,ISO 9001:2015,ISO-9001-33992,2024-05-24,2027-05-23,active
+Western Welding & Assembly,Small Business,SBA-2024-2345,2024-01-01,2024-12-31,active
+Defense Manufacturing Partners,AS9100D,AS-88443-2024,2024-11-26,2027-11-25,active
+Defense Manufacturing Partners,CMMC Level 2,CMMC-L2-1122,2024-10-19,2027-10-18,active
+Defense Manufacturing Partners,ITAR Registered,M-89156,2024-07-08,2025-07-07,active
+Defense Manufacturing Partners,ISO 9001:2015,ISO-9001-66554,2024-04-30,2027-04-29,active
+Apex Electronics Solutions,ITAR Registered,M-90267,2024-12-11,2025-12-10,active
+Apex Electronics Solutions,ISO 9001:2015,ISO-9001-22771,2024-09-27,2027-09-26,active
+Apex Electronics Solutions,Small Business,SBA-2024-6789,2024-01-01,2024-12-31,active
+Continental Tool & Manufacturing,ISO 9001:2015,ISO-9001-99886,2024-08-05,2027-08-04,active
+Continental Tool & Manufacturing,Small Business,SBA-2024-0123,2024-01-01,2024-12-31,active
+Continental Tool & Manufacturing,CAGE Code Active,5T2Q9,2021-06-21,,active
+Southern Aerospace Systems,AS9100D,AS-11779-2024,2024-10-14,2027-10-13,active
+Southern Aerospace Systems,ITAR Registered,M-01378,2024-06-29,2025-06-28,active
+Southern Aerospace Systems,ISO 9001:2015,ISO-9001-44225,2024-03-22,2027-03-21,active
+Southern Aerospace Systems,CAGE Code Active,8L9E4,2019-05-19,,active

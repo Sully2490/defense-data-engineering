@@ -1,0 +1,11 @@
+name,parent_name,slug
+Metals,,metals
+Ferrous Metals,Metals,ferrous-metals
+Non-Ferrous Metals,Metals,non-ferrous-metals
+Specialty Alloys,Metals,specialty-alloys
+Composites,,composites
+Polymers,,polymers
+Ceramics,,ceramics
+Electronics,,electronics
+Fasteners,,fasteners
+Raw Stock,,raw-stock

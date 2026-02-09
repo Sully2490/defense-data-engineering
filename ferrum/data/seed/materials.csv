@@ -1,0 +1,195 @@
+name,category_name,specification,grade,form,material_type,nsn,specialty_metal,domestic_required,export_controlled
+Titanium 6Al-4V Sheet,Non-Ferrous Metals,AMS 4911,Grade 5,Sheet,titanium,9515-01-234-5678,true,true,false
+Aluminum 7075-T6 Plate,Non-Ferrous Metals,AMS 4078,T6,Plate,aluminum,9535-00-123-4567,false,false,false
+Inconel 718 Bar,Specialty Alloys,AMS 5662,718,Bar,nickel_alloy,9540-01-345-6789,true,true,true
+4130 Steel Tube,Ferrous Metals,AMS 6345,normalized,Tube,steel,9510-00-234-5678,true,false,false
+Carbon Fiber Prepreg,Composites,MIL-DTL-9400,T300,Prepreg,carbon_fiber,,false,true,true
+Titanium 6Al-4V Bar,Non-Ferrous Metals,AMS 4928,Grade 5,Bar,titanium,9515-01-456-7890,true,true,false
+Aluminum 2024-T3 Sheet,Non-Ferrous Metals,AMS 4037,T3,Sheet,aluminum,9535-00-345-6789,false,false,false
+Stainless Steel 17-4PH Bar,Ferrous Metals,AMS 5643,H1150,Bar,stainless_steel,9510-01-567-8901,true,false,false
+Inconel 625 Sheet,Specialty Alloys,AMS 5599,625,Sheet,nickel_alloy,9540-01-678-9012,true,true,true
+Titanium 6Al-4V Plate,Non-Ferrous Metals,AMS 4907,Grade 5,Plate,titanium,9515-01-789-0123,true,true,false
+Aluminum 6061-T6 Bar,Non-Ferrous Metals,AMS 4027,T6,Bar,aluminum,9535-00-890-1234,false,false,false
+4340 Steel Bar,Ferrous Metals,AMS 6415,normalized,Bar,steel,9510-00-901-2345,true,false,false
+Carbon Fiber Fabric,Composites,MIL-DTL-83429,3K Plain Weave,Fabric,carbon_fiber,,false,true,true
+PEEK Sheet,Polymers,AMS 3678,450G,Sheet,polymer,,false,false,false
+Titanium 6Al-2Sn-4Zr-2Mo Bar,Non-Ferrous Metals,AMS 4919,6242,Bar,titanium,9515-01-012-3456,true,true,true
+Aluminum 7050-T7451 Plate,Non-Ferrous Metals,AMS 4050,T7451,Plate,aluminum,9535-00-123-4567,false,false,false
+Stainless Steel 316L Sheet,Ferrous Metals,AMS 5524,annealed,Sheet,stainless_steel,9510-01-234-5678,false,false,false
+Hastelloy X Sheet,Specialty Alloys,AMS 5754,X,Sheet,nickel_alloy,9540-01-345-6789,true,true,true
+Titanium 6Al-4V Wire,Non-Ferrous Metals,AMS 4954,Grade 5,Wire,titanium,9515-01-456-7890,true,true,false
+Aluminum 2219-T87 Plate,Non-Ferrous Metals,AMS 4035,T87,Plate,aluminum,9535-00-567-8901,false,false,false
+Maraging Steel 300 Bar,Ferrous Metals,AMS 6514,300,Bar,steel,9510-01-678-9012,true,false,false
+Fiberglass Prepreg,Composites,MIL-DTL-24768,E-Glass,Prepreg,fiberglass,,false,false,false
+UHMWPE Sheet,Polymers,MIL-DTL-46146,GUR 1020,Sheet,polymer,,false,false,false
+Titanium 5Al-2.5Sn Bar,Non-Ferrous Metals,AMS 4924,5-2.5,Bar,titanium,9515-01-789-0123,true,true,false
+Aluminum 7475-T7351 Plate,Non-Ferrous Metals,AMS 4202,T7351,Plate,aluminum,9535-00-890-1234,false,false,false
+Stainless Steel 15-5PH Bar,Ferrous Metals,AMS 5659,H1025,Bar,stainless_steel,9510-01-901-2345,true,false,false
+Inconel 600 Bar,Specialty Alloys,AMS 5665,600,Bar,nickel_alloy,9540-01-012-3456,true,true,false
+Kevlar Fabric,Composites,MIL-DTL-62474,KM2 Plus,Fabric,aramid_fiber,,false,true,true
+Nylon 6/6 Sheet,Polymers,MIL-DTL-20693,Type 1,Sheet,polymer,,false,false,false
+Titanium 3Al-2.5V Tube,Non-Ferrous Metals,AMS 4943,Grade 9,Tube,titanium,9515-01-123-4567,true,true,false
+Aluminum 5083-H116 Plate,Non-Ferrous Metals,AMS 4059,H116,Plate,aluminum,9535-00-234-5678,false,false,false
+Stainless Steel 304L Sheet,Ferrous Metals,AMS 5513,annealed,Sheet,stainless_steel,9510-01-345-6789,false,false,false
+Rene 41 Bar,Specialty Alloys,AMS 5712,solution_treated,Bar,nickel_alloy,9540-01-456-7890,true,true,true
+Carbon Fiber Unidirectional,Composites,MIL-DTL-9400,IM7,Unidirectional,carbon_fiber,,false,true,true
+Polycarbonate Sheet,Polymers,MIL-DTL-25690,Lexan,Sheet,polymer,,false,false,false
+Titanium CP Grade 2 Sheet,Non-Ferrous Metals,AMS 4902,Grade 2,Sheet,titanium,9515-01-567-8901,true,true,false
+Aluminum 2014-T6 Bar,Non-Ferrous Metals,AMS 4152,T6,Bar,aluminum,9535-00-678-9012,false,false,false
+A286 Stainless Steel Bar,Ferrous Metals,AMS 5731,solution_treated,Bar,stainless_steel,9510-01-789-0123,true,false,false
+Waspaloy Bar,Specialty Alloys,AMS 5544,solution_treated,Bar,nickel_alloy,9540-01-890-1234,true,true,true
+S-Glass Fabric,Composites,MIL-DTL-24768,S-2 Glass,Fabric,fiberglass,,false,false,false
+Acetal Sheet,Polymers,MIL-DTL-16778,Delrin,Sheet,polymer,,false,false,false
+Titanium Beta C Bar,Non-Ferrous Metals,AMS 4957,Beta C,Bar,titanium,9515-01-901-2345,true,true,true
+Aluminum 6063-T6 Extrusion,Non-Ferrous Metals,AMS 4156,T6,Extrusion,aluminum,9535-00-012-3456,false,false,false
+4130 Steel Sheet,Ferrous Metals,AMS 6350,normalized,Sheet,steel,9510-00-123-4567,true,false,false
+Monel 400 Bar,Specialty Alloys,AMS 4675,400,Bar,nickel_alloy,9540-01-234-5678,true,false,false
+Hybrid Carbon-Kevlar Fabric,Composites,MIL-DTL-83429,Hybrid Weave,Fabric,hybrid_fiber,,false,true,true
+G-10 Laminate Sheet,Polymers,MIL-DTL-24768,FR-4,Sheet,composite_laminate,,false,false,false
+Titanium 10V-2Fe-3Al Bar,Non-Ferrous Metals,AMS 4983,10-2-3,Bar,titanium,9515-01-345-6789,true,true,true
+Aluminum 7079-T6 Plate,Non-Ferrous Metals,AMS 4119,T6,Plate,aluminum,9535-00-456-7890,false,false,false
+9310 Steel Bar,Ferrous Metals,AMS 6265,normalized,Bar,steel,9510-01-567-8901,true,false,false
+Alumina Ceramic,Ceramics,MIL-DTL-10955,99.5% Al2O3,Block,ceramic,,false,false,false
+Silicon Carbide Ceramic,Ceramics,MIL-DTL-10955,SiC,Block,ceramic,,false,false,false
+PCB FR-4 Laminate,Electronics,IPC-4101,FR-4,Sheet,pcb_material,,false,false,false
+Mil-Spec Connectors - D38999,Electronics,MIL-DTL-38999,Series III,Component,connector,,false,true,false
+AN3 Bolts,Fasteners,AN-3,Steel,Bolt,fastener,5305-00-123-4567,false,false,false
+MS20470 Rivets,Fasteners,MS20470,AD,Rivet,fastener,5320-00-234-5678,false,false,false
+NAS1351 Washers,Fasteners,NAS1351,Steel,Washer,fastener,5310-00-345-6789,false,false,false
+Copper C11000 Bar,Non-Ferrous Metals,ASTM B187,C11000,Bar,copper,9510-00-456-7890,false,false,false
+Brass 360 Bar,Non-Ferrous Metals,ASTM B16,360,Bar,brass,9510-00-567-8901,false,false,false
+Bronze 932 Bar,Non-Ferrous Metals,ASTM B505,932,Bar,bronze,9510-00-678-9012,false,false,false
+Magnesium AZ31B Sheet,Non-Ferrous Metals,AMS 4375,AZ31B,Sheet,magnesium,9535-00-789-0123,false,false,false
+Zirconium 702 Bar,Non-Ferrous Metals,ASTM B551,702,Bar,zirconium,9510-01-890-1234,true,true,false
+Tungsten Rod,Raw Stock,ASTM B760,Pure,Rod,tungsten,9515-01-901-2345,true,true,true
+Molybdenum Sheet,Raw Stock,ASTM B386,TZM,Sheet,molybdenum,9535-00-012-3456,true,true,true
+Cobalt Chrome Bar,Specialty Alloys,AMS 5537,F75,Bar,cobalt_alloy,9540-01-123-4567,true,true,false
+Stainless Steel 410 Bar,Ferrous Metals,AMS 5504,annealed,Bar,stainless_steel,9510-00-234-5678,false,false,false
+Stainless Steel 440C Bar,Ferrous Metals,AMS 5630,hardened,Bar,stainless_steel,9510-01-345-6789,false,false,false
+Tool Steel H13 Bar,Ferrous Metals,AMS 6487,annealed,Bar,tool_steel,9510-00-456-7890,true,false,false
+Tool Steel D2 Bar,Ferrous Metals,AMS 6481,annealed,Bar,tool_steel,9510-01-567-8901,true,false,false
+Aluminum Bronze C63000 Bar,Non-Ferrous Metals,ASTM B150,C63000,Bar,aluminum_bronze,9510-00-678-9012,false,false,false
+Beryllium Copper C17200 Sheet,Non-Ferrous Metals,AMS 4533,C17200,Sheet,beryllium_copper,9535-00-789-0123,true,true,true
+Nitinol Wire,Specialty Alloys,ASTM F2063,NiTi,Wire,shape_memory_alloy,9515-01-890-1234,true,true,false
+MP35N Wire,Specialty Alloys,ASTM F562,35N,Wire,cobalt_alloy,9515-01-901-2345,true,true,false
+Elgiloy Wire,Specialty Alloys,ASTM F1058,Elgiloy,Wire,cobalt_alloy,9515-01-012-3456,true,true,false
+Tantalum Sheet,Raw Stock,ASTM B708,R05200,Sheet,tantalum,9535-00-123-4567,true,true,true
+Niobium Bar,Raw Stock,ASTM B392,R04200,Bar,niobium,9510-01-234-5678,true,true,true
+Hafnium Bar,Raw Stock,ASTM B737,R1,Bar,hafnium,9510-01-345-6789,true,true,true
+Vanadium Bar,Raw Stock,ASTM B407,Grade 1,Bar,vanadium,9510-00-456-7890,true,true,true
+Chromium Plate,Raw Stock,ASTM B550,Electrolytic,Plate,chromium,9535-00-567-8901,false,false,false
+Silver Bar,Raw Stock,ASTM B413,99.9% Ag,Bar,silver,9510-00-678-9012,false,false,false
+Gold Wire,Raw Stock,ASTM B562,99.99% Au,Wire,gold,9515-00-789-0123,false,false,false
+Platinum Wire,Raw Stock,ASTM B684,99.95% Pt,Wire,platinum,9515-01-890-1234,true,true,false
+Palladium Wire,Raw Stock,ASTM B685,99.9% Pd,Wire,palladium,9515-01-901-2345,true,true,false
+Rhodium Plating Solution,Raw Stock,MIL-DTL-13508,Type I,Solution,rhodium,6850-00-012-3456,true,true,false
+Indium Wire,Raw Stock,ASTM B265,99.99% In,Wire,indium,9515-00-123-4567,false,false,false
+Lead Sheet,Raw Stock,ASTM B29,Chemical,Sheet,lead,9535-00-234-5678,false,false,false
+Tin Bar,Raw Stock,ASTM B339,Grade A,Bar,tin,9510-00-345-6789,false,false,false
+Zinc Sheet,Raw Stock,ASTM B69,SHG,Sheet,zinc,9535-00-456-7890,false,false,false
+Bismuth Bar,Raw Stock,ASTM B759,99.99% Bi,Bar,bismuth,9510-00-567-8901,false,false,false
+Antimony Bar,Raw Stock,ASTM B102,99.5% Sb,Bar,antimony,9510-00-678-9012,false,false,false
+Germanium Wafer,Electronics,ASTM F723,N-Type,Wafer,semiconductor,5961-01-789-0123,true,true,true
+Silicon Wafer,Electronics,ASTM F1241,P-Type,Wafer,semiconductor,5961-01-890-1234,false,false,true
+Gallium Arsenide Wafer,Electronics,ASTM F444,Semi-Insulating,Wafer,semiconductor,5961-01-901-2345,true,true,true
+Indium Phosphide Wafer,Electronics,ASTM F657,N-Type,Wafer,semiconductor,5961-01-012-3456,true,true,true
+Sapphire Wafer,Electronics,MIL-DTL-25576,C-Plane,Wafer,substrate,5961-00-123-4567,false,false,false
+Quartz Crystal Blanks,Electronics,MIL-DTL-3098,AT-Cut,Crystal,piezoelectric,5955-00-234-5678,false,false,false
+Ferrite Core Material,Electronics,MIL-DTL-15071,3C90,Core,magnetic_material,5950-00-345-6789,false,false,false
+Neodymium Magnets,Electronics,MIL-DTL-21038,N52,Magnet,rare_earth_magnet,5999-01-456-7890,true,true,false
+Samarium Cobalt Magnets,Electronics,MIL-DTL-21038,SmCo 2-17,Magnet,rare_earth_magnet,5999-01-567-8901,true,true,false
+RF Absorber Material,Electronics,MIL-DTL-83528,Urethane,Sheet,absorber,5985-01-678-9012,false,false,false
+EMI Shielding Gasket,Electronics,MIL-DTL-83528,Conductive,Gasket,shielding,5999-01-789-0123,false,false,false
+Thermal Interface Material,Electronics,MIL-DTL-3134,Phase Change,Pad,thermal_management,5999-01-890-1234,false,false,false
+Conformal Coating,Electronics,MIL-DTL-46058,Acrylic,Coating,coating,8010-01-901-2345,false,false,false
+Solder Wire SAC305,Electronics,MIL-DTL-32000,Lead-Free,Wire,solder,5999-00-012-3456,false,false,false
+Solder Wire 63/37,Electronics,MIL-DTL-32000,Tin-Lead,Wire,solder,5999-00-123-4567,false,false,false
+Flux - No Clean,Electronics,MIL-DTL-14256,Type L,Flux,soldering_material,8040-00-234-5678,false,false,false
+Epoxy Adhesive,Polymers,MIL-DTL-24441,2-Part,Adhesive,adhesive,8040-00-345-6789,false,false,false
+Cyanoacrylate Adhesive,Polymers,MIL-DTL-46050,Low Viscosity,Adhesive,adhesive,8040-00-456-7890,false,false,false
+Silicone Sealant,Polymers,MIL-DTL-21053,RTV,Sealant,sealant,8030-00-567-8901,false,false,false
+Polyurethane Potting Compound,Polymers,MIL-DTL-23311,2-Part,Potting,potting_compound,8040-00-678-9012,false,false,false
+Kapton Tape,Polymers,MIL-DTL-23352,Polyimide,Tape,tape,5999-00-789-0123,false,false,false
+PTFE Tape,Polymers,MIL-DTL-5544,Teflon,Tape,tape,5330-00-890-1234,false,false,false
+3M VHB Tape,Polymers,Commercial,Acrylic,Tape,tape,5999-00-901-2345,false,false,false
+Carbon Fiber Tube,Composites,Commercial,Pultruded,Tube,carbon_fiber,,false,false,false
+Fiberglass Rod,Composites,MIL-DTL-24768,G-10,Rod,fiberglass,,false,false,false
+Nomex Honeycomb Core,Composites,MIL-DTL-7438,1/8-3.0,Core,honeycomb,,false,false,false
+Aluminum Honeycomb Core,Composites,MIL-DTL-7438,5052-3/16-3.0,Core,honeycomb,,false,false,false
+Rohacell Foam,Composites,Commercial,110 IG,Foam,structural_foam,,false,false,false
+Divinycell Foam,Composites,Commercial,H100,Foam,structural_foam,,false,false,false
+Balsa Wood Core,Composites,MIL-DTL-6070,End Grain,Core,wood_core,,false,false,false
+Cork Sheet,Composites,MIL-DTL-6150,Type I,Sheet,cork,,false,false,false
+Rubber - Viton,Polymers,MIL-DTL-25732,FKM,Sheet,elastomer,,false,false,false
+Rubber - Neoprene,Polymers,MIL-DTL-3052,CR,Sheet,elastomer,,false,false,false
+Rubber - Buna-N,Polymers,MIL-DTL-6855,NBR,Sheet,elastomer,,false,false,false
+Rubber - Silicone,Polymers,MIL-DTL-25988,VMQ,Sheet,elastomer,,false,false,false
+Rubber - EPDM,Polymers,MIL-DTL-6134,EPDM,Sheet,elastomer,,false,false,false
+O-Rings AS568,Fasteners,AS568,Nitrile,O-Ring,seal,5331-00-012-3456,false,false,false
+Graphite Sheet,Raw Stock,MIL-DTL-12803,Flexible,Sheet,graphite,,false,false,false
+Carbon Felt,Raw Stock,Commercial,PAN-Based,Felt,carbon,,false,false,false
+Mica Sheet,Raw Stock,MIL-DTL-10965,Muscovite,Sheet,mica,,false,false,false
+Asbestos-Free Gasket Material,Raw Stock,Commercial,Aramid,Sheet,gasket_material,,false,false,false
+Polyimide Film,Polymers,MIL-DTL-46101,Kapton H,Film,film,,false,false,false
+PTFE Film,Polymers,MIL-DTL-24533,Teflon,Film,film,,false,false,false
+Polyester Film,Polymers,MIL-DTL-8184,Mylar,Film,film,,false,false,false
+Polypropylene Film,Polymers,Commercial,Biaxially Oriented,Film,film,,false,false,false
+PET Sheet,Polymers,Commercial,PETG,Sheet,polymer,,false,false,false
+PVC Sheet,Polymers,MIL-DTL-6855,Type I,Sheet,polymer,,false,false,false
+ABS Sheet,Polymers,Commercial,Standard,Sheet,polymer,,false,false,false
+Polystyrene Sheet,Polymers,Commercial,HIPS,Sheet,polymer,,false,false,false
+Acrylic Sheet,Polymers,MIL-DTL-8184,Cast,Sheet,polymer,,false,false,false
+Polyethylene Sheet,Polymers,MIL-DTL-16923,HDPE,Sheet,polymer,,false,false,false
+Polypropylene Sheet,Polymers,Commercial,Homopolymer,Sheet,polymer,,false,false,false
+Phenolic Sheet,Polymers,MIL-DTL-24768,Canvas,Sheet,thermoset,,false,false,false
+Melamine Sheet,Polymers,Commercial,Standard,Sheet,thermoset,,false,false,false
+Bakelite Sheet,Polymers,MIL-DTL-14,Type I,Sheet,thermoset,,false,false,false
+Torlon PAI Rod,Polymers,Commercial,4203,Rod,polymer,,false,false,false
+Vespel SP-1 Sheet,Polymers,Commercial,Unfilled,Sheet,polyimide,,false,false,false
+Ultem PEI Sheet,Polymers,Commercial,1000,Sheet,polymer,,false,false,false
+Radel PPSU Sheet,Polymers,Commercial,R-5000,Sheet,polymer,,false,false,false
+PPS Sheet,Polymers,Commercial,Ryton,Sheet,polymer,,false,false,false
+PVDF Sheet,Polymers,Commercial,Kynar,Sheet,polymer,,false,false,false
+FEP Film,Polymers,MIL-DTL-24533,Teflon FEP,Film,fluoropolymer,,false,false,false
+PFA Tubing,Polymers,Commercial,Teflon PFA,Tubing,fluoropolymer,,false,false,false
+ETFE Film,Polymers,Commercial,Tefzel,Film,fluoropolymer,,false,false,false
+PCTFE Sheet,Polymers,MIL-DTL-25047,Kel-F,Sheet,fluoropolymer,,false,false,false
+Expanded PTFE Sheet,Polymers,Commercial,Gore-Tex,Sheet,fluoropolymer,,false,false,false
+Ceramic Fiber Blanket,Ceramics,Commercial,1260C,Blanket,insulation,,false,false,false
+Glass Wool Insulation,Ceramics,Commercial,Fiberglass,Blanket,insulation,,false,false,false
+Aerogel Blanket,Ceramics,Commercial,Pyrogel,Blanket,insulation,,false,false,false
+Boron Nitride Ceramic,Ceramics,MIL-DTL-10955,Hot Pressed,Block,ceramic,,false,false,false
+Zirconia Ceramic,Ceramics,Commercial,Yttria Stabilized,Block,ceramic,,false,false,false
+Alumina Nitride Ceramic,Ceramics,Commercial,AlN,Block,ceramic,,false,false,false
+Cordierite Ceramic,Ceramics,Commercial,2MgO-2Al2O3-5SiO2,Block,ceramic,,false,false,false
+Steatite Ceramic,Ceramics,Commercial,Magnesium Silicate,Block,ceramic,,false,false,false
+Macor Machinable Ceramic,Ceramics,Commercial,Glass Ceramic,Block,ceramic,,false,false,false
+Pyroceram Glass-Ceramic,Ceramics,Commercial,9606,Block,ceramic,,false,false,false
+Fused Silica,Ceramics,MIL-DTL-G-174,Type I,Block,glass,,false,false,false
+Borosilicate Glass,Ceramics,MIL-DTL-G-81,Pyrex,Sheet,glass,,false,false,false
+Quartz Glass,Ceramics,Commercial,Fused Quartz,Tube,glass,,false,false,false
+Soda-Lime Glass,Ceramics,Commercial,Float Glass,Sheet,glass,,false,false,false
+Lead Glass,Ceramics,Commercial,X-Ray Shielding,Sheet,glass,,false,false,false
+Tempered Glass,Ceramics,Commercial,Heat Treated,Sheet,glass,,false,false,false
+Laminated Glass,Ceramics,MIL-DTL-G-81,Safety Glass,Sheet,glass,,false,false,false
+Gorilla Glass,Ceramics,Commercial,Alkali-Aluminosilicate,Sheet,glass,,false,false,false
+AN4 Bolts,Fasteners,AN-4,Steel,Bolt,fastener,5305-00-234-5678,false,false,false
+AN5 Bolts,Fasteners,AN-5,Steel,Bolt,fastener,5305-00-345-6789,false,false,false
+AN6 Bolts,Fasteners,AN-6,Steel,Bolt,fastener,5305-00-456-7890,false,false,false
+MS20004 Nuts,Fasteners,MS20004,Steel,Nut,fastener,5310-00-567-8901,false,false,false
+MS21042 Lock Nuts,Fasteners,MS21042,Steel,Nut,fastener,5310-00-678-9012,false,false,false
+NAS1291 Screws,Fasteners,NAS1291,Titanium,Screw,fastener,5305-01-789-0123,true,true,false
+NAS6604 Bolts,Fasteners,NAS6604,Steel,Bolt,fastener,5305-00-890-1234,false,false,false
+NAS6703 Nuts,Fasteners,NAS6703,Steel,Nut,fastener,5310-00-901-2345,false,false,false
+MS20426 Rivets,Fasteners,MS20426,Aluminum,Rivet,fastener,5320-00-012-3456,false,false,false
+MS20615 Rivets,Fasteners,MS20615,Titanium,Rivet,fastener,5320-01-123-4567,true,true,false
+NAS1919 Bolts,Fasteners,NAS1919,Inconel,Bolt,fastener,5305-01-234-5678,true,true,false
+Hi-Lok Fasteners,Fasteners,HL11,Steel,Fastener,fastener,5305-00-345-6789,false,false,false
+Huck Bolts,Fasteners,BOM,Steel,Bolt,fastener,5305-00-456-7890,false,false,false
+Cherry Rivets,Fasteners,CR3213,Aluminum,Rivet,fastener,5320-00-567-8901,false,false,false
+Eddie Bolts,Fasteners,Commercial,Steel,Bolt,fastener,5305-00-678-9012,false,false,false
+Clecos,Fasteners,Commercial,Steel,Clamp,fastener,5120-00-789-0123,false,false,false
+Safety Wire,Fasteners,MS20995,Stainless,Wire,safety_wire,9505-00-890-1234,false,false,false
+Cotter Pins,Fasteners,MS24665,Steel,Pin,fastener,5315-00-901-2345,false,false,false
+Dowel Pins,Fasteners,MS16555,Steel,Pin,fastener,5315-00-012-3456,false,false,false
+Roll Pins,Fasteners,MS16562,Steel,Pin,fastener,5315-00-123-4567,false,false,false

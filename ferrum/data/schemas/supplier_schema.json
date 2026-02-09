@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ferrum.dev/schemas/supplier.json",
+  "title": "Supplier",
+  "description": "Defense/aerospace supplier schema for Ferrum",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 255,
+      "description": "Supplier legal name"
+    },
+    "cage_code": {
+      "type": "string",
+      "pattern": "^[A-Z0-9]{5}$",
+      "description": "5-character CAGE code"
+    },
+    "sam_uei": {
+      "type": "string",
+      "pattern": "^[A-Z0-9]{12}$",
+      "description": "12-character SAM Unique Entity Identifier"
+    },
+    "duns_number": {
+      "type": "string",
+      "pattern": "^[0-9]{9}$",
+      "description": "9-digit DUNS number"
+    },
+    "address": {
+      "type": "string",
+      "maxLength": 500
+    },
+    "city": {
+      "type": "string",
+      "maxLength": 100
+    },
+    "state": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$",
+      "description": "2-letter US state code"
+    },
+    "zip": {
+      "type": "string",
+      "pattern": "^[0-9]{5}(-[0-9]{4})?$",
+      "description": "5 or 9-digit ZIP code"
+    },
+    "country": {
+      "type": "string",
+      "pattern": "^[A-Z]{3}$",
+      "description": "3-letter ISO country code"
+    },
+    "naics_codes": {
+      "type": "string",
+      "pattern": "^[0-9]{6}(,[0-9]{6})*$",
+      "description": "Comma-separated NAICS codes"
+    },
+    "website": {
+      "type": "string",
+      "format": "uri"
+    },
+    "contact_email": {
+      "type": "string",
+      "format": "email"
+    },
+    "contact_phone": {
+      "type": "string",
+      "pattern": "^\\+?[0-9\\-\\(\\)\\.\\s]{10,20}$"
+    },
+    "small_business": {
+      "type": "boolean"
+    },
+    "woman_owned": {
+      "type": "boolean"
+    },
+    "veteran_owned": {
+      "type": "boolean"
+    },
+    "hub_zone": {
+      "type": "boolean"
+    },
+    "risk_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Risk score between 0 and 1"
+    },
+    "contains_cui": {
+      "type": "boolean",
+      "description": "Whether supplier handles Controlled Unclassified Information"
+    },
+    "description": {
+      "type": "string",
+      "maxLength": 2000
+    }
+  },
+  "required": [
+    "name",
+    "cage_code",
+    "city",
+    "state",
+    "country",
+    "small_business",
+    "woman_owned",
+    "veteran_owned",
+    "hub_zone",
+    "contains_cui"
+  ]
+}

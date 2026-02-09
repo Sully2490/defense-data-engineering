@@ -1,0 +1,180 @@
+supplier_name,capability_name,proficiency
+Apex Precision Machining,CNC Machining,expert
+Apex Precision Machining,Precision Grinding,advanced
+Apex Precision Machining,Quality Inspection,advanced
+Apex Precision Machining,EDM,intermediate
+Titan Aerospace Materials,Quality Inspection,advanced
+Titan Aerospace Materials,Surface Finishing,intermediate
+Patriot Defense Systems,Robotic Welding,expert
+Patriot Defense Systems,PLC Programming,expert
+Patriot Defense Systems,Electrical Integration,expert
+Patriot Defense Systems,Hydraulic Systems,advanced
+Patriot Defense Systems,Assembly - Mechanical,expert
+Forge & Alloy Corp,Forging,expert
+Forge & Alloy Corp,Heat Treatment,expert
+Forge & Alloy Corp,CNC Machining,advanced
+Forge & Alloy Corp,Quality Inspection,advanced
+Pacific Composites Inc,Composite Layup,expert
+Pacific Composites Inc,Additive Manufacturing,advanced
+Pacific Composites Inc,Quality Inspection,advanced
+Pacific Composites Inc,Surface Finishing,intermediate
+Precision Sheet Metal Works,Sheet Metal Fabrication,expert
+Precision Sheet Metal Works,Welding - TIG,advanced
+Precision Sheet Metal Works,Welding - MIG,advanced
+Precision Sheet Metal Works,Laser Cutting,expert
+Quantum Electronics Manufacturing,PCB Assembly,expert
+Quantum Electronics Manufacturing,Wire Harness Assembly,expert
+Quantum Electronics Manufacturing,Electrical Integration,advanced
+Quantum Electronics Manufacturing,Testing - Environmental,advanced
+Velocity Machining Solutions,CNC Machining,expert
+Velocity Machining Solutions,Precision Grinding,expert
+Velocity Machining Solutions,Quality Inspection,advanced
+Continental Fastener Supply,Quality Inspection,advanced
+Continental Fastener Supply,Assembly - Mechanical,intermediate
+Thermal Processing Systems,Heat Treatment,expert
+Thermal Processing Systems,Surface Finishing,expert
+Thermal Processing Systems,Quality Inspection,advanced
+Thermal Processing Systems,Anodizing,advanced
+Electro-Mechanical Assembly,Wire Harness Assembly,expert
+Electro-Mechanical Assembly,PCB Assembly,advanced
+Electro-Mechanical Assembly,Electrical Integration,expert
+Electro-Mechanical Assembly,Assembly - Mechanical,advanced
+Defense Materials Group,Composite Layup,advanced
+Defense Materials Group,Additive Manufacturing,intermediate
+Defense Materials Group,Quality Inspection,advanced
+Atlantic Welding & Fabrication,Welding - TIG,expert
+Atlantic Welding & Fabrication,Welding - MIG,expert
+Atlantic Welding & Fabrication,Robotic Welding,advanced
+Atlantic Welding & Fabrication,Sheet Metal Fabrication,advanced
+Atlantic Welding & Fabrication,Quality Inspection,advanced
+Aero Component Specialists,CNC Machining,expert
+Aero Component Specialists,Composite Layup,advanced
+Aero Component Specialists,Quality Inspection,expert
+Aero Component Specialists,NDT - X-Ray,advanced
+Aero Component Specialists,Surface Finishing,advanced
+Midwest Tool & Die,CNC Machining,expert
+Midwest Tool & Die,Precision Grinding,expert
+Midwest Tool & Die,EDM,advanced
+Midwest Tool & Die,Quality Inspection,advanced
+Integrated Defense Solutions,PLC Programming,expert
+Integrated Defense Solutions,Robotic Welding,advanced
+Integrated Defense Solutions,Electrical Integration,expert
+Integrated Defense Solutions,Hydraulic Systems,expert
+Integrated Defense Solutions,Assembly - Mechanical,expert
+Precision Casting Technologies,Die Casting,expert
+Precision Casting Technologies,Heat Treatment,advanced
+Precision Casting Technologies,Quality Inspection,advanced
+Precision Casting Technologies,Surface Finishing,intermediate
+Southwest Electronics Assembly,PCB Assembly,expert
+Southwest Electronics Assembly,Wire Harness Assembly,advanced
+Southwest Electronics Assembly,Testing - Environmental,expert
+Southwest Electronics Assembly,Quality Inspection,advanced
+Advanced Materials Processing,EDM,expert
+Advanced Materials Processing,Heat Treatment,expert
+Advanced Materials Processing,Precision Grinding,advanced
+Advanced Materials Processing,Quality Inspection,advanced
+Tactical Systems Engineering,PLC Programming,expert
+Tactical Systems Engineering,Robotic Welding,advanced
+Tactical Systems Engineering,Electrical Integration,expert
+Tactical Systems Engineering,Assembly - Mechanical,expert
+Granite State Machining,CNC Machining,expert
+Granite State Machining,Precision Grinding,advanced
+Granite State Machining,Quality Inspection,advanced
+Composite Structures International,Composite Layup,expert
+Composite Structures International,Quality Inspection,expert
+Composite Structures International,Assembly - Mechanical,advanced
+Composite Structures International,Surface Finishing,advanced
+Precision Hydraulics & Pneumatics,Hydraulic Systems,expert
+Precision Hydraulics & Pneumatics,Pneumatic Systems,expert
+Precision Hydraulics & Pneumatics,Assembly - Mechanical,advanced
+Precision Hydraulics & Pneumatics,Quality Inspection,advanced
+Digital Manufacturing Systems,Additive Manufacturing,expert
+Digital Manufacturing Systems,CNC Machining,advanced
+Digital Manufacturing Systems,Quality Inspection,advanced
+Digital Manufacturing Systems,Heat Treatment,intermediate
+Gulf Coast Alloys,Quality Inspection,advanced
+Gulf Coast Alloys,Heat Treatment,intermediate
+Northeast Metal Finishing,Anodizing,expert
+Northeast Metal Finishing,Plating,expert
+Northeast Metal Finishing,Painting/Coating,advanced
+Northeast Metal Finishing,Surface Finishing,expert
+Northeast Metal Finishing,Quality Inspection,advanced
+Robotic Integration Partners,PLC Programming,expert
+Robotic Integration Partners,Robotic Welding,expert
+Robotic Integration Partners,Electrical Integration,expert
+Robotic Integration Partners,Assembly - Mechanical,advanced
+Precision NDT Services,NDT - Ultrasonic,expert
+Precision NDT Services,NDT - X-Ray,expert
+Precision NDT Services,Quality Inspection,expert
+Precision NDT Services,Testing - Environmental,advanced
+Liberty Aerospace Machining,CNC Machining,expert
+Liberty Aerospace Machining,Precision Grinding,advanced
+Liberty Aerospace Machining,Quality Inspection,expert
+Advanced Ceramics Corporation,CNC Machining,advanced
+Advanced Ceramics Corporation,Precision Grinding,expert
+Advanced Ceramics Corporation,Quality Inspection,advanced
+Southeastern Composites,Composite Layup,expert
+Southeastern Composites,Quality Inspection,advanced
+Southeastern Composites,Surface Finishing,advanced
+Mountain View Precision,CNC Machining,expert
+Mountain View Precision,Precision Grinding,expert
+Mountain View Precision,Quality Inspection,advanced
+Defense Supply Chain Solutions,Quality Inspection,advanced
+Defense Supply Chain Solutions,Assembly - Mechanical,intermediate
+Midwest Electronics Integration,PCB Assembly,expert
+Midwest Electronics Integration,Wire Harness Assembly,advanced
+Midwest Electronics Integration,Electrical Integration,advanced
+Midwest Electronics Integration,Testing - Environmental,expert
+Midwest Electronics Integration,Quality Inspection,advanced
+Alloy Metals & Materials,Heat Treatment,advanced
+Alloy Metals & Materials,Quality Inspection,advanced
+Coastal Machining & Fabrication,CNC Machining,expert
+Coastal Machining & Fabrication,Welding - TIG,advanced
+Coastal Machining & Fabrication,Welding - MIG,advanced
+Coastal Machining & Fabrication,Quality Inspection,advanced
+Sierra Aerospace Components,CNC Machining,expert
+Sierra Aerospace Components,Composite Layup,advanced
+Sierra Aerospace Components,Quality Inspection,expert
+Automated Assembly Systems,Robotic Welding,expert
+Automated Assembly Systems,PLC Programming,expert
+Automated Assembly Systems,Assembly - Mechanical,expert
+Automated Assembly Systems,Electrical Integration,advanced
+Quality Heat Treating,Heat Treatment,expert
+Quality Heat Treating,Quality Inspection,advanced
+Quality Heat Treating,Surface Finishing,intermediate
+Precision Wiring Systems,Wire Harness Assembly,expert
+Precision Wiring Systems,Electrical Integration,advanced
+Precision Wiring Systems,Quality Inspection,advanced
+Great Lakes Composites,Composite Layup,expert
+Great Lakes Composites,Quality Inspection,advanced
+Great Lakes Composites,Assembly - Mechanical,advanced
+Rocky Mountain Materials,Quality Inspection,advanced
+Rocky Mountain Materials,Heat Treatment,intermediate
+Elite Precision Engineering,CNC Machining,expert
+Elite Precision Engineering,Precision Grinding,expert
+Elite Precision Engineering,Quality Inspection,expert
+Elite Precision Engineering,EDM,advanced
+Patriot Fastener Corporation,Quality Inspection,advanced
+Patriot Fastener Corporation,Assembly - Mechanical,intermediate
+Western Welding & Assembly,Welding - TIG,expert
+Western Welding & Assembly,Welding - MIG,expert
+Western Welding & Assembly,Robotic Welding,advanced
+Western Welding & Assembly,Assembly - Mechanical,expert
+Western Welding & Assembly,Quality Inspection,advanced
+Defense Manufacturing Partners,CNC Machining,expert
+Defense Manufacturing Partners,Assembly - Mechanical,expert
+Defense Manufacturing Partners,Electrical Integration,advanced
+Defense Manufacturing Partners,Quality Inspection,expert
+Apex Electronics Solutions,PCB Assembly,expert
+Apex Electronics Solutions,Wire Harness Assembly,advanced
+Apex Electronics Solutions,Electrical Integration,advanced
+Apex Electronics Solutions,Testing - Environmental,advanced
+Continental Tool & Manufacturing,CNC Machining,expert
+Continental Tool & Manufacturing,Precision Grinding,advanced
+Continental Tool & Manufacturing,EDM,advanced
+Continental Tool & Manufacturing,Quality Inspection,advanced
+Southern Aerospace Systems,CNC Machining,advanced
+Southern Aerospace Systems,Composite Layup,expert
+Southern Aerospace Systems,Assembly - Mechanical,expert
+Southern Aerospace Systems,Electrical Integration,advanced
+Southern Aerospace Systems,Quality Inspection,expert

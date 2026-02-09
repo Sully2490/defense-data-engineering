@@ -1,0 +1,31 @@
+name,category,slug
+CNC Machining,machining,cnc-machining
+Additive Manufacturing,manufacturing,additive-manufacturing
+Composite Layup,manufacturing,composite-layup
+Wire Harness Assembly,assembly,wire-harness-assembly
+PCB Assembly,electronics,pcb-assembly
+Welding - TIG,joining,welding-tig
+Welding - MIG,joining,welding-mig
+Heat Treatment,processing,heat-treatment
+Surface Finishing,processing,surface-finishing
+Precision Grinding,machining,precision-grinding
+EDM,machining,edm
+Injection Molding,manufacturing,injection-molding
+Die Casting,manufacturing,die-casting
+Forging,manufacturing,forging
+Sheet Metal Fabrication,manufacturing,sheet-metal-fabrication
+Robotic Welding,automation,robotic-welding
+PLC Programming,automation,plc-programming
+Hydraulic Systems,systems,hydraulic-systems
+Pneumatic Systems,systems,pneumatic-systems
+Electrical Integration,systems,electrical-integration
+Quality Inspection,quality,quality-inspection
+NDT - Ultrasonic,quality,ndt-ultrasonic
+NDT - X-Ray,quality,ndt-xray
+Painting/Coating,finishing,painting-coating
+Anodizing,finishing,anodizing
+Plating,finishing,plating
+Laser Cutting,machining,laser-cutting
+Waterjet Cutting,machining,waterjet-cutting
+Assembly - Mechanical,assembly,assembly-mechanical
+Testing - Environmental,testing,testing-environmental

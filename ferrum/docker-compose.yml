@@ -1,0 +1,103 @@
+version: '3.9'
+
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: ferrum-postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-ferrum}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-ferrum}
+      POSTGRES_DB: ${POSTGRES_DB:-ferrum}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ferrum"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - ferrum-net
+
+  neo4j:
+    image: neo4j:5-community
+    container_name: ferrum-neo4j
+    environment:
+      NEO4J_AUTH: ${NEO4J_USER:-neo4j}/${NEO4J_PASSWORD:-ferrumgraph}
+      NEO4J_PLUGINS: '["apoc"]'
+      NEO4J_dbms_security_procedures_unrestricted: apoc.*
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:
+      - neo4j_data:/data
+    healthcheck:
+      test: ["CMD-SHELL", "wget --no-verbose --tries=1 --spider http://localhost:7474 || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - ferrum-net
+
+  api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: ferrum-api
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    depends_on:
+      postgres:
+        condition: service_healthy
+      neo4j:
+        condition: service_healthy
+    volumes:
+      - ./backend:/app
+      - ./data:/app/data
+    networks:
+      - ferrum-net
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: ferrum-frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    networks:
+      - ferrum-net
+
+  nginx:
+    image: nginx:alpine
+    container_name: ferrum-nginx
+    ports:
+      - "80:80"
+    depends_on:
+      - api
+      - frontend
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    networks:
+      - ferrum-net
+
+volumes:
+  pg_data:
+    name: ferrum-pg-data
+  neo4j_data:
+    name: ferrum-neo4j-data
+
+networks:
+  ferrum-net:
+    name: ferrum-network
+    driver: bridge

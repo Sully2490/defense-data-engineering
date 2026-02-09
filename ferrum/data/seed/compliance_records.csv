@@ -1,0 +1,87 @@
+supplier_name,regulation,status,details
+Titan Aerospace Materials,ITAR,compliant,ITAR registration M-38472 active. Annual compliance audit passed 2024-09-15.
+Titan Aerospace Materials,EAR,compliant,Export compliance program in place. All materials classified under ECCN categories.
+Patriot Defense Systems,ITAR,compliant,ITAR registration M-45892 active. Comprehensive technical data controls implemented.
+Patriot Defense Systems,DFARS,compliant,DFARS 252.204-7012 compliant. CMMC Level 2 certified for CUI protection.
+Patriot Defense Systems,NIST 800-171,compliant,Full NIST 800-171 implementation. SSP submitted and approved.
+Patriot Defense Systems,EAR,compliant,Export compliance officer designated. Regular training conducted.
+Pacific Composites Inc,ITAR,compliant,ITAR registration M-52341 active. Technical data security measures in place.
+Pacific Composites Inc,EAR,compliant,Carbon fiber materials classified under ECCN 1C010. Controls implemented.
+Pacific Composites Inc,DFARS,compliant,DFARS 252.225-7014 Specialty Metals compliance. Material traceability maintained.
+Quantum Electronics Manufacturing,ITAR,compliant,ITAR registration M-67823 active. Electronics assembly under ITAR controls.
+Quantum Electronics Manufacturing,EAR,compliant,PCB assemblies classified and controlled per EAR requirements.
+Quantum Electronics Manufacturing,DFARS,compliant,DFARS cybersecurity requirements met. Annual self-assessment completed.
+Defense Materials Group,ITAR,compliant,ITAR registration M-78934 active. Specialty polymers under ITAR control.
+Defense Materials Group,EAR,compliant,Advanced materials export classification maintained.
+Forge & Alloy Corp,BERRY,compliant,Berry Amendment compliance for all steel products. Domestic melted and manufactured.
+Forge & Alloy Corp,DFARS,compliant,DFARS 252.225-7014 Specialty Metals clause compliance verified.
+Aero Component Specialists,ITAR,compliant,ITAR registration M-52678 active. Manufacturing facility registered.
+Gulf Coast Alloys,ITAR,compliant,ITAR registration M-23489 active. Nickel alloy distribution controlled.
+Gulf Coast Alloys,DFARS,compliant,Specialty metals traceability to domestic sources maintained.
+Integrated Defense Solutions,ITAR,compliant,ITAR registration M-89045 active. Systems integration under ITAR control.
+Integrated Defense Solutions,DFARS,compliant,DFARS 252.204-7012 and 252.204-7019 compliance verified.
+Integrated Defense Solutions,NIST 800-171,compliant,NIST 800-171 controls implemented. CMMC Level 2 assessment passed.
+Integrated Defense Solutions,EAR,compliant,Robotic systems export controls in place.
+Composite Structures International,ITAR,compliant,ITAR registration M-01267 active. Large composite structures controlled.
+Composite Structures International,EAR,compliant,Composite materials classified under ECCN 1C010.
+Composite Structures International,DFARS,compliant,DFARS 252.225-7014 compliance for specialty materials.
+Digital Manufacturing Systems,ITAR,compliant,ITAR registration M-12378 active. Additive manufacturing controlled.
+Digital Manufacturing Systems,EAR,compliant,3D printing technology export controls maintained.
+Robotic Integration Partners,ITAR,compliant,ITAR registration M-34590 active. Robotics systems under control.
+Robotic Integration Partners,DFARS,compliant,DFARS cybersecurity and supply chain requirements met.
+Tactical Systems Engineering,ITAR,compliant,ITAR registration M-90156 active. Tactical systems development controlled.
+Tactical Systems Engineering,DFARS,compliant,DFARS 252.204-7012 compliant. CMMC Level 2 certified.
+Tactical Systems Engineering,NIST 800-171,compliant,NIST 800-171 SSP approved. Annual assessment completed.
+Tactical Systems Engineering,EAR,compliant,Unmanned systems export classification maintained.
+Alloy Metals & Materials,ITAR,compliant,ITAR registration M-56712 active. Specialty alloy distribution controlled.
+Alloy Metals & Materials,DFARS,compliant,Specialty metals domestic source verification maintained.
+Rocky Mountain Materials,ITAR,compliant,ITAR registration M-78934 active. Titanium distribution controlled.
+Rocky Mountain Materials,DFARS,compliant,DFARS 252.225-7014 specialty metals compliance verified.
+Midwest Electronics Integration,ITAR,compliant,ITAR registration M-45601 active. Electronics integration controlled.
+Midwest Electronics Integration,DFARS,compliant,DFARS 252.204-7012 compliance maintained.
+Defense Manufacturing Partners,ITAR,compliant,ITAR registration M-89156 active. Manufacturing operations controlled.
+Defense Manufacturing Partners,DFARS,compliant,DFARS 252.204-7012 and 252.204-7019 compliance verified.
+Defense Manufacturing Partners,NIST 800-171,compliant,NIST 800-171 implementation complete. CMMC Level 2 certified.
+Apex Electronics Solutions,ITAR,compliant,ITAR registration M-90267 active. PCB assembly under ITAR control.
+Apex Electronics Solutions,DFARS,compliant,DFARS cybersecurity requirements implemented.
+Southern Aerospace Systems,ITAR,compliant,ITAR registration M-01378 active. UAV components under control.
+Southern Aerospace Systems,EAR,compliant,Aerospace components export classification maintained.
+Southern Aerospace Systems,DFARS,compliant,DFARS 252.204-7012 compliance verified.
+Automated Assembly Systems,ITAR,compliant,ITAR registration M-67823 active. Assembly systems controlled.
+Automated Assembly Systems,DFARS,compliant,DFARS supply chain and cybersecurity requirements met.
+Precision Casting Technologies,BERRY,compliant,Berry Amendment compliance for aluminum castings. Domestic production verified.
+Precision Casting Technologies,DFARS,compliant,DFARS 252.225-7014 compliance for specialty metals.
+Advanced Materials Processing,DFARS,compliant,DFARS specialty metals processing compliance maintained.
+Forge & Alloy Corp,BAA,compliant,Buy American Act compliance for all steel products.
+Northeast Metal Finishing,DFARS,compliant,DFARS specialty metals finishing compliance verified.
+Sierra Aerospace Components,ITAR,compliant,ITAR registration M-23890 active. Aerospace components controlled.
+Liberty Aerospace Machining,ITAR,compliant,ITAR registration M-45123 active. Machining operations controlled.
+Granite State Machining,ITAR,compliant,ITAR registration M-56734 active. Precision machining controlled.
+Elite Precision Engineering,ITAR,compliant,ITAR registration M-67845 active. Engineering services controlled.
+Aero Component Specialists,DFARS,compliant,DFARS 252.204-7012 and specialty metals compliance verified.
+Great Lakes Composites,ITAR,compliant,ITAR registration M-78956 active. Composite manufacturing controlled.
+Southeastern Composites,ITAR,compliant,ITAR registration M-89067 active. Composite parts under control.
+Western Welding & Assembly,DFARS,compliant,DFARS specialty metals welding compliance maintained.
+Atlantic Welding & Fabrication,DFARS,compliant,DFARS specialty metals fabrication compliance verified.
+Coastal Machining & Fabrication,DFARS,compliant,DFARS compliance for machining operations.
+Defense Supply Chain Solutions,ITAR,compliant,ITAR registration M-90178 active. Supply chain management controlled.
+Defense Supply Chain Solutions,DFARS,compliant,DFARS supply chain security requirements implemented.
+Defense Supply Chain Solutions,EAR,compliant,Export compliance program for distribution operations.
+Apex Precision Machining,ITAR,under_review,ITAR registration application submitted 2024-11-15. Awaiting DDTC approval.
+Apex Precision Machining,DFARS,compliant,DFARS 252.225-7014 compliance for specialty metals machining.
+Velocity Machining Solutions,ITAR,under_review,ITAR registration renewal in progress. Expected completion 2024-03-01.
+Velocity Machining Solutions,DFARS,compliant,DFARS specialty metals compliance maintained.
+Mountain View Precision,DFARS,compliant,DFARS compliance for precision machining operations.
+Precision Wiring Systems,ITAR,compliant,ITAR registration M-12345 active. Wire harness assembly controlled.
+Continental Fastener Supply,DFARS,compliant,DFARS specialty metals compliance for aerospace fasteners.
+Patriot Fastener Corporation,DFARS,compliant,DFARS specialty metals compliance verified for all fasteners.
+Quality Heat Treating,DFARS,compliant,DFARS specialty metals heat treatment compliance maintained.
+Thermal Processing Systems,DFARS,compliant,DFARS compliance for heat treatment services.
+Advanced Ceramics Corporation,EAR,compliant,Technical ceramics classified under ECCN 1C107. Controls in place.
+Precision Hydraulics & Pneumatics,ITAR,under_review,ITAR registration application submitted for hydraulic systems.
+Precision NDT Services,DFARS,compliant,DFARS compliance for NDT inspection services.
+Electro-Mechanical Assembly,ITAR,under_review,ITAR registration renewal submitted 2024-12-01.
+Midwest Tool & Die,DFARS,compliant,DFARS compliance for tool and die manufacturing.
+Continental Tool & Manufacturing,DFARS,compliant,DFARS specialty metals compliance for tooling.
+Precision Sheet Metal Works,DFARS,compliant,DFARS compliance for sheet metal fabrication.
+Southwest Electronics Assembly,ITAR,compliant,ITAR registration M-34567 active. Electronics assembly controlled.

@@ -1,0 +1,124 @@
+supplier_name,material_name,price,currency,unit,quantity_min,quantity_max,effective_date,expiry_date
+Titan Aerospace Materials,Titanium 6Al-4V Sheet,45.50,USD,lb,1,100,2024-01-01,2024-12-31
+Titan Aerospace Materials,Titanium 6Al-4V Bar,42.75,USD,lb,1,100,2024-01-01,2024-12-31
+Titan Aerospace Materials,Titanium 6Al-4V Plate,47.25,USD,lb,1,100,2024-01-01,2024-12-31
+Titan Aerospace Materials,Titanium 6Al-4V Sheet,43.00,USD,lb,101,500,2024-01-01,2024-12-31
+Titan Aerospace Materials,Titanium 6Al-4V Bar,40.50,USD,lb,101,500,2024-01-01,2024-12-31
+Titan Aerospace Materials,Inconel 718 Bar,68.50,USD,lb,1,50,2024-01-01,2024-12-31
+Titan Aerospace Materials,Inconel 625 Sheet,72.00,USD,lb,1,50,2024-01-01,2024-12-31
+Titan Aerospace Materials,Titanium 6Al-2Sn-4Zr-2Mo Bar,58.00,USD,lb,1,50,2024-01-01,2024-12-31
+Apex Precision Machining,Titanium 6Al-4V Bar,125.00,USD,hour,10,100,2024-01-01,2024-12-31
+Apex Precision Machining,Aluminum 7075-T6 Plate,95.00,USD,hour,5,100,2024-01-01,2024-12-31
+Continental Fastener Supply,AN3 Bolts,0.45,USD,each,100,1000,2024-01-01,2024-12-31
+Continental Fastener Supply,AN4 Bolts,0.65,USD,each,100,1000,2024-01-01,2024-12-31
+Continental Fastener Supply,AN5 Bolts,0.85,USD,each,100,1000,2024-01-01,2024-12-31
+Continental Fastener Supply,MS20470 Rivets,0.12,USD,each,500,5000,2024-01-01,2024-12-31
+Continental Fastener Supply,MS20426 Rivets,0.15,USD,each,500,5000,2024-01-01,2024-12-31
+Continental Fastener Supply,NAS1351 Washers,0.08,USD,each,200,2000,2024-01-01,2024-12-31
+Continental Fastener Supply,AN3 Bolts,0.42,USD,each,1001,10000,2024-01-01,2024-12-31
+Continental Fastener Supply,AN4 Bolts,0.60,USD,each,1001,10000,2024-01-01,2024-12-31
+Pacific Composites Inc,Carbon Fiber Prepreg,85.00,USD,lb,10,100,2024-01-01,2024-12-31
+Pacific Composites Inc,Carbon Fiber Fabric,72.00,USD,yd,25,250,2024-01-01,2024-12-31
+Pacific Composites Inc,Fiberglass Prepreg,28.00,USD,lb,15,150,2024-01-01,2024-12-31
+Pacific Composites Inc,Kevlar Fabric,95.00,USD,yd,10,100,2024-01-01,2024-12-31
+Pacific Composites Inc,Carbon Fiber Unidirectional,92.00,USD,lb,20,200,2024-01-01,2024-12-31
+Forge & Alloy Corp,4130 Steel Tube,8.50,USD,lb,50,500,2024-01-01,2024-12-31
+Forge & Alloy Corp,4130 Steel Sheet,7.75,USD,lb,25,500,2024-01-01,2024-12-31
+Forge & Alloy Corp,4340 Steel Bar,9.25,USD,lb,50,500,2024-01-01,2024-12-31
+Forge & Alloy Corp,Maraging Steel 300 Bar,22.00,USD,lb,10,100,2024-01-01,2024-12-31
+Gulf Coast Alloys,Inconel 718 Bar,65.00,USD,lb,1,50,2024-01-01,2024-12-31
+Gulf Coast Alloys,Inconel 625 Sheet,68.50,USD,lb,1,50,2024-01-01,2024-12-31
+Gulf Coast Alloys,Hastelloy X Sheet,75.00,USD,lb,1,50,2024-01-01,2024-12-31
+Gulf Coast Alloys,Rene 41 Bar,82.00,USD,lb,1,25,2024-01-01,2024-12-31
+Gulf Coast Alloys,Waspaloy Bar,88.00,USD,lb,1,25,2024-01-01,2024-12-31
+Gulf Coast Alloys,Inconel 718 Bar,62.00,USD,lb,51,200,2024-01-01,2024-12-31
+Quantum Electronics Manufacturing,PCB FR-4 Laminate,12.50,USD,sqft,25,250,2024-01-01,2024-12-31
+Quantum Electronics Manufacturing,Solder Wire SAC305,45.00,USD,lb,10,100,2024-01-01,2024-12-31
+Quantum Electronics Manufacturing,Solder Wire 63/37,38.00,USD,lb,10,100,2024-01-01,2024-12-31
+Quantum Electronics Manufacturing,Flux - No Clean,28.00,USD,bottle,20,200,2024-01-01,2024-12-31
+Precision Sheet Metal Works,Aluminum 2024-T3 Sheet,8.50,USD,lb,10,100,2024-01-01,2024-12-31
+Precision Sheet Metal Works,Aluminum 5083-H116 Plate,7.25,USD,lb,10,100,2024-01-01,2024-12-31
+Precision Sheet Metal Works,Stainless Steel 304L Sheet,6.50,USD,lb,15,150,2024-01-01,2024-12-31
+Precision Sheet Metal Works,Stainless Steel 316L Sheet,7.75,USD,lb,15,150,2024-01-01,2024-12-31
+Defense Materials Group,PEEK Sheet,185.00,USD,lb,5,50,2024-01-01,2024-12-31
+Defense Materials Group,UHMWPE Sheet,32.00,USD,lb,10,100,2024-01-01,2024-12-31
+Defense Materials Group,Nylon 6/6 Sheet,18.00,USD,lb,15,150,2024-01-01,2024-12-31
+Defense Materials Group,G-10 Laminate Sheet,22.00,USD,lb,10,100,2024-01-01,2024-12-31
+Composite Structures International,Carbon Fiber Prepreg,88.00,USD,lb,10,100,2024-01-01,2024-12-31
+Composite Structures International,Carbon Fiber Fabric,74.00,USD,yd,25,250,2024-01-01,2024-12-31
+Composite Structures International,Nomex Honeycomb Core,125.00,USD,sqft,5,50,2024-01-01,2024-12-31
+Composite Structures International,Aluminum Honeycomb Core,85.00,USD,sqft,5,50,2024-01-01,2024-12-31
+Alloy Metals & Materials,Inconel 718 Bar,66.50,USD,lb,1,50,2024-01-01,2024-12-31
+Alloy Metals & Materials,Inconel 625 Sheet,69.50,USD,lb,1,50,2024-01-01,2024-12-31
+Alloy Metals & Materials,Titanium 6Al-4V Bar,43.50,USD,lb,1,100,2024-01-01,2024-12-31
+Alloy Metals & Materials,Titanium 6Al-4V Sheet,46.00,USD,lb,1,100,2024-01-01,2024-12-31
+Rocky Mountain Materials,Titanium 6Al-4V Bar,44.00,USD,lb,1,100,2024-01-01,2024-12-31
+Rocky Mountain Materials,Titanium 6Al-4V Sheet,46.50,USD,lb,1,100,2024-01-01,2024-12-31
+Rocky Mountain Materials,Titanium 6Al-4V Plate,48.00,USD,lb,1,100,2024-01-01,2024-12-31
+Rocky Mountain Materials,Inconel 718 Bar,67.00,USD,lb,1,50,2024-01-01,2024-12-31
+Defense Supply Chain Solutions,AN3 Bolts,0.48,USD,each,100,1000,2024-01-01,2024-12-31
+Defense Supply Chain Solutions,AN4 Bolts,0.68,USD,each,100,1000,2024-01-01,2024-12-31
+Defense Supply Chain Solutions,MS20470 Rivets,0.13,USD,each,500,5000,2024-01-01,2024-12-31
+Defense Supply Chain Solutions,Titanium 6Al-4V Bar,44.50,USD,lb,1,100,2024-01-01,2024-12-31
+Patriot Fastener Corporation,AN3 Bolts,0.46,USD,each,100,1000,2024-01-01,2024-12-31
+Patriot Fastener Corporation,AN4 Bolts,0.66,USD,each,100,1000,2024-01-01,2024-12-31
+Patriot Fastener Corporation,AN5 Bolts,0.86,USD,each,100,1000,2024-01-01,2024-12-31
+Patriot Fastener Corporation,AN6 Bolts,1.05,USD,each,100,1000,2024-01-01,2024-12-31
+Patriot Fastener Corporation,MS20470 Rivets,0.13,USD,each,500,5000,2024-01-01,2024-12-31
+Patriot Fastener Corporation,MS20426 Rivets,0.16,USD,each,500,5000,2024-01-01,2024-12-31
+Advanced Ceramics Corporation,Alumina Ceramic,125.00,USD,lb,1,50,2024-01-01,2024-12-31
+Advanced Ceramics Corporation,Silicon Carbide Ceramic,185.00,USD,lb,1,25,2024-01-01,2024-12-31
+Advanced Ceramics Corporation,Boron Nitride Ceramic,225.00,USD,lb,1,10,2024-01-01,2024-12-31
+Southeastern Composites,Carbon Fiber Prepreg,86.00,USD,lb,10,100,2024-01-01,2024-12-31
+Southeastern Composites,Carbon Fiber Fabric,73.00,USD,yd,25,250,2024-01-01,2024-12-31
+Southeastern Composites,Fiberglass Prepreg,29.00,USD,lb,15,150,2024-01-01,2024-12-31
+Great Lakes Composites,Carbon Fiber Prepreg,87.00,USD,lb,10,100,2024-01-01,2024-12-31
+Great Lakes Composites,Carbon Fiber Fabric,75.00,USD,yd,25,250,2024-01-01,2024-12-31
+Great Lakes Composites,Fiberglass Prepreg,30.00,USD,lb,15,150,2024-01-01,2024-12-31
+Southwest Electronics Assembly,PCB FR-4 Laminate,13.00,USD,sqft,25,250,2024-01-01,2024-12-31
+Southwest Electronics Assembly,Solder Wire SAC305,46.00,USD,lb,10,100,2024-01-01,2024-12-31
+Midwest Electronics Integration,PCB FR-4 Laminate,12.75,USD,sqft,25,250,2024-01-01,2024-12-31
+Midwest Electronics Integration,Solder Wire SAC305,45.50,USD,lb,10,100,2024-01-01,2024-12-31
+Apex Electronics Solutions,PCB FR-4 Laminate,13.25,USD,sqft,25,250,2024-01-01,2024-12-31
+Apex Electronics Solutions,Solder Wire SAC305,46.50,USD,lb,10,100,2024-01-01,2024-12-31
+Velocity Machining Solutions,Titanium 6Al-4V Bar,130.00,USD,hour,5,100,2024-01-01,2024-12-31
+Velocity Machining Solutions,Aluminum 7075-T6 Plate,98.00,USD,hour,5,100,2024-01-01,2024-12-31
+Granite State Machining,Titanium 6Al-4V Bar,128.00,USD,hour,5,100,2024-01-01,2024-12-31
+Granite State Machining,Aluminum 7075-T6 Plate,96.00,USD,hour,5,100,2024-01-01,2024-12-31
+Liberty Aerospace Machining,Titanium 6Al-4V Bar,132.00,USD,hour,5,100,2024-01-01,2024-12-31
+Liberty Aerospace Machining,Aluminum 7075-T6 Plate,100.00,USD,hour,5,100,2024-01-01,2024-12-31
+Mountain View Precision,Titanium 6Al-4V Bar,135.00,USD,hour,5,100,2024-01-01,2024-12-31
+Elite Precision Engineering,Titanium 6Al-4V Bar,127.00,USD,hour,5,100,2024-01-01,2024-12-31
+Elite Precision Engineering,Aluminum 7075-T6 Plate,97.00,USD,hour,5,100,2024-01-01,2024-12-31
+Sierra Aerospace Components,Titanium 6Al-4V Bar,129.00,USD,hour,5,100,2024-01-01,2024-12-31
+Defense Manufacturing Partners,Titanium 6Al-4V Bar,126.00,USD,hour,5,100,2024-01-01,2024-12-31
+Aero Component Specialists,Titanium 6Al-4V Bar,131.00,USD,hour,5,100,2024-01-01,2024-12-31
+Atlantic Welding & Fabrication,Stainless Steel 304L Sheet,85.00,USD,hour,10,100,2024-01-01,2024-12-31
+Western Welding & Assembly,Stainless Steel 304L Sheet,87.00,USD,hour,10,100,2024-01-01,2024-12-31
+Coastal Machining & Fabrication,Aluminum 2024-T3 Sheet,82.00,USD,hour,10,100,2024-01-01,2024-12-31
+Precision Casting Technologies,Aluminum 7075-T6 Plate,4.50,USD,lb,5,100,2024-01-01,2024-12-31
+Thermal Processing Systems,Titanium 6Al-4V Bar,35.00,USD,hour,5,100,2024-01-01,2024-12-31
+Quality Heat Treating,Titanium 6Al-4V Bar,33.00,USD,hour,5,100,2024-01-01,2024-12-31
+Advanced Materials Processing,Titanium 6Al-4V Bar,36.00,USD,hour,5,100,2024-01-01,2024-12-31
+Northeast Metal Finishing,Aluminum 7075-T6 Plate,28.00,USD,sqft,5,100,2024-01-01,2024-12-31
+Precision Wiring Systems,Mil-Spec Connectors - D38999,45.00,USD,each,50,500,2024-01-01,2024-12-31
+Precision Wiring Systems,Safety Wire,12.50,USD,lb,50,500,2024-01-01,2024-12-31
+Patriot Defense Systems,Hydraulic Systems,4500.00,USD,unit,1,10,2024-01-01,2024-12-31
+Patriot Defense Systems,Pneumatic Systems,3200.00,USD,unit,1,10,2024-01-01,2024-12-31
+Integrated Defense Solutions,Hydraulic Systems,4750.00,USD,unit,1,10,2024-01-01,2024-12-31
+Integrated Defense Solutions,Pneumatic Systems,3350.00,USD,unit,1,10,2024-01-01,2024-12-31
+Tactical Systems Engineering,Hydraulic Systems,4650.00,USD,unit,1,10,2024-01-01,2024-12-31
+Tactical Systems Engineering,Pneumatic Systems,3275.00,USD,unit,1,10,2024-01-01,2024-12-31
+Precision Hydraulics & Pneumatics,Hydraulic Systems,4550.00,USD,unit,1,10,2024-01-01,2024-12-31
+Precision Hydraulics & Pneumatics,Pneumatic Systems,3225.00,USD,unit,1,10,2024-01-01,2024-12-31
+Robotic Integration Partners,Hydraulic Systems,4800.00,USD,unit,1,10,2024-01-01,2024-12-31
+Robotic Integration Partners,Pneumatic Systems,3400.00,USD,unit,1,10,2024-01-01,2024-12-31
+Automated Assembly Systems,Hydraulic Systems,4700.00,USD,unit,1,10,2024-01-01,2024-12-31
+Automated Assembly Systems,Pneumatic Systems,3300.00,USD,unit,1,10,2024-01-01,2024-12-31
+Digital Manufacturing Systems,Titanium 6Al-4V Bar,185.00,USD,hour,1,50,2024-01-01,2024-12-31
+Digital Manufacturing Systems,Inconel 718 Bar,225.00,USD,hour,1,50,2024-01-01,2024-12-31
+Digital Manufacturing Systems,Aluminum 7075-T6 Plate,145.00,USD,hour,1,50,2024-01-01,2024-12-31
+Midwest Tool & Die,4130 Steel Bar,95.00,USD,hour,10,100,2024-01-01,2024-12-31
+Continental Tool & Manufacturing,4130 Steel Bar,93.00,USD,hour,10,100,2024-01-01,2024-12-31
+Precision NDT Services,Titanium 6Al-4V Bar,125.00,USD,hour,1,100,2024-01-01,2024-12-31
+Precision NDT Services,Inconel 718 Bar,135.00,USD,hour,1,100,2024-01-01,2024-12-31

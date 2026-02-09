@@ -1,0 +1,143 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ferrum.dev/schemas/material.json",
+  "title": "Material",
+  "description": "Defense/aerospace material schema for Ferrum",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 255,
+      "description": "Material name"
+    },
+    "category_name": {
+      "type": "string",
+      "maxLength": 100,
+      "description": "Material category name"
+    },
+    "specification": {
+      "type": "string",
+      "maxLength": 100,
+      "description": "Material specification (AMS, MIL-DTL, ASTM, etc.)"
+    },
+    "grade": {
+      "type": "string",
+      "maxLength": 100,
+      "description": "Material grade or condition"
+    },
+    "form": {
+      "type": "string",
+      "maxLength": 100,
+      "description": "Material form (sheet, bar, plate, etc.)"
+    },
+    "material_type": {
+      "type": "string",
+      "maxLength": 100,
+      "enum": [
+        "titanium",
+        "aluminum",
+        "steel",
+        "stainless_steel",
+        "nickel_alloy",
+        "carbon_fiber",
+        "fiberglass",
+        "aramid_fiber",
+        "polymer",
+        "ceramic",
+        "fastener",
+        "connector",
+        "pcb_material",
+        "copper",
+        "brass",
+        "bronze",
+        "magnesium",
+        "zirconium",
+        "tungsten",
+        "molybdenum",
+        "cobalt_alloy",
+        "tool_steel",
+        "aluminum_bronze",
+        "beryllium_copper",
+        "shape_memory_alloy",
+        "tantalum",
+        "niobium",
+        "hafnium",
+        "vanadium",
+        "chromium",
+        "silver",
+        "gold",
+        "platinum",
+        "palladium",
+        "rhodium",
+        "indium",
+        "lead",
+        "tin",
+        "zinc",
+        "bismuth",
+        "antimony",
+        "semiconductor",
+        "substrate",
+        "piezoelectric",
+        "magnetic_material",
+        "rare_earth_magnet",
+        "absorber",
+        "shielding",
+        "thermal_management",
+        "coating",
+        "solder",
+        "soldering_material",
+        "adhesive",
+        "sealant",
+        "potting_compound",
+        "tape",
+        "hybrid_fiber",
+        "composite_laminate",
+        "honeycomb",
+        "structural_foam",
+        "wood_core",
+        "cork",
+        "elastomer",
+        "seal",
+        "graphite",
+        "carbon",
+        "mica",
+        "gasket_material",
+        "film",
+        "thermoset",
+        "polyimide",
+        "fluoropolymer",
+        "insulation",
+        "glass",
+        "safety_wire",
+        "other"
+      ],
+      "description": "Material type classification"
+    },
+    "nsn": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{3}-[0-9]{4}$",
+      "description": "NATO Stock Number (NSN) format: ####-##-###-####"
+    },
+    "specialty_metal": {
+      "type": "boolean",
+      "description": "DFARS specialty metal designation"
+    },
+    "domestic_required": {
+      "type": "boolean",
+      "description": "Domestic sourcing required (Berry/BAA)"
+    },
+    "export_controlled": {
+      "type": "boolean",
+      "description": "Subject to ITAR/EAR export controls"
+    }
+  },
+  "required": [
+    "name",
+    "category_name",
+    "material_type",
+    "specialty_metal",
+    "domestic_required",
+    "export_controlled"
+  ]
+}

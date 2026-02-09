@@ -1,0 +1,222 @@
+supplier_name,material_name,is_primary,lead_time_days,min_order_qty
+Apex Precision Machining,Titanium 6Al-4V Bar,true,14,10
+Apex Precision Machining,Aluminum 7075-T6 Plate,true,7,5
+Apex Precision Machining,Stainless Steel 17-4PH Bar,false,10,15
+Apex Precision Machining,4130 Steel Tube,false,12,20
+Titan Aerospace Materials,Titanium 6Al-4V Sheet,true,5,1
+Titan Aerospace Materials,Titanium 6Al-4V Bar,true,5,1
+Titan Aerospace Materials,Titanium 6Al-4V Plate,true,5,1
+Titan Aerospace Materials,Inconel 718 Bar,true,7,1
+Titan Aerospace Materials,Inconel 625 Sheet,true,7,1
+Titan Aerospace Materials,Titanium 6Al-2Sn-4Zr-2Mo Bar,true,10,1
+Titan Aerospace Materials,Hastelloy X Sheet,false,14,1
+Titan Aerospace Materials,Rene 41 Bar,false,14,1
+Patriot Defense Systems,Hydraulic Systems,true,30,1
+Patriot Defense Systems,Pneumatic Systems,true,30,1
+Patriot Defense Systems,PCB FR-4 Laminate,false,21,10
+Patriot Defense Systems,Mil-Spec Connectors - D38999,false,28,50
+Forge & Alloy Corp,4130 Steel Tube,true,21,50
+Forge & Alloy Corp,4130 Steel Sheet,true,21,25
+Forge & Alloy Corp,4340 Steel Bar,true,21,50
+Forge & Alloy Corp,Maraging Steel 300 Bar,true,28,10
+Forge & Alloy Corp,9310 Steel Bar,false,21,25
+Pacific Composites Inc,Carbon Fiber Prepreg,true,14,10
+Pacific Composites Inc,Carbon Fiber Fabric,true,14,25
+Pacific Composites Inc,Fiberglass Prepreg,true,10,15
+Pacific Composites Inc,Kevlar Fabric,true,14,10
+Pacific Composites Inc,Carbon Fiber Unidirectional,true,14,20
+Pacific Composites Inc,Hybrid Carbon-Kevlar Fabric,false,21,10
+Pacific Composites Inc,Nomex Honeycomb Core,false,14,5
+Precision Sheet Metal Works,Aluminum 2024-T3 Sheet,true,7,10
+Precision Sheet Metal Works,Aluminum 5083-H116 Plate,true,7,10
+Precision Sheet Metal Works,Stainless Steel 304L Sheet,true,7,15
+Precision Sheet Metal Works,Stainless Steel 316L Sheet,true,7,15
+Quantum Electronics Manufacturing,PCB FR-4 Laminate,true,14,25
+Quantum Electronics Manufacturing,Solder Wire SAC305,true,5,10
+Quantum Electronics Manufacturing,Solder Wire 63/37,true,5,10
+Quantum Electronics Manufacturing,Flux - No Clean,true,5,20
+Quantum Electronics Manufacturing,Mil-Spec Connectors - D38999,false,21,50
+Velocity Machining Solutions,Titanium 6Al-4V Bar,true,10,5
+Velocity Machining Solutions,Aluminum 7075-T6 Plate,true,7,5
+Velocity Machining Solutions,Stainless Steel 17-4PH Bar,false,10,10
+Velocity Machining Solutions,Aluminum 2024-T3 Sheet,false,7,10
+Continental Fastener Supply,AN3 Bolts,true,3,100
+Continental Fastener Supply,AN4 Bolts,true,3,100
+Continental Fastener Supply,AN5 Bolts,true,3,100
+Continental Fastener Supply,MS20470 Rivets,true,3,500
+Continental Fastener Supply,MS20426 Rivets,true,3,500
+Continental Fastener Supply,NAS1351 Washers,true,3,200
+Continental Fastener Supply,MS20004 Nuts,true,3,200
+Continental Fastener Supply,MS21042 Lock Nuts,true,3,200
+Thermal Processing Systems,Titanium 6Al-4V Bar,false,14,5
+Thermal Processing Systems,4130 Steel Bar,false,10,10
+Thermal Processing Systems,Aluminum 7075-T6 Plate,false,10,5
+Electro-Mechanical Assembly,PCB FR-4 Laminate,true,14,10
+Electro-Mechanical Assembly,Mil-Spec Connectors - D38999,true,21,50
+Electro-Mechanical Assembly,Solder Wire SAC305,false,5,10
+Electro-Mechanical Assembly,Safety Wire,false,3,50
+Defense Materials Group,PEEK Sheet,true,14,5
+Defense Materials Group,UHMWPE Sheet,true,14,10
+Defense Materials Group,Nylon 6/6 Sheet,true,10,15
+Defense Materials Group,G-10 Laminate Sheet,true,14,10
+Defense Materials Group,Carbon Fiber Prepreg,false,21,10
+Atlantic Welding & Fabrication,Stainless Steel 304L Sheet,true,10,10
+Atlantic Welding & Fabrication,Stainless Steel 316L Sheet,true,10,10
+Atlantic Welding & Fabrication,Aluminum 5083-H116 Plate,true,7,10
+Atlantic Welding & Fabrication,4130 Steel Sheet,false,14,15
+Aero Component Specialists,Titanium 6Al-4V Sheet,true,14,5
+Aero Component Specialists,Titanium 6Al-4V Bar,true,14,5
+Aero Component Specialists,Carbon Fiber Prepreg,true,21,10
+Aero Component Specialists,Aluminum 7075-T6 Plate,false,10,10
+Aero Component Specialists,Inconel 718 Bar,false,21,5
+Midwest Tool & Die,4130 Steel Bar,true,14,10
+Midwest Tool & Die,Tool Steel H13 Bar,true,21,10
+Midwest Tool & Die,Tool Steel D2 Bar,true,21,10
+Midwest Tool & Die,Stainless Steel 440C Bar,false,14,10
+Integrated Defense Solutions,Hydraulic Systems,true,45,1
+Integrated Defense Solutions,Pneumatic Systems,true,45,1
+Integrated Defense Solutions,PCB FR-4 Laminate,false,21,10
+Integrated Defense Solutions,Aluminum 6061-T6 Bar,false,14,10
+Precision Casting Technologies,Aluminum 7075-T6 Plate,true,28,5
+Precision Casting Technologies,Aluminum 2014-T6 Bar,true,28,10
+Precision Casting Technologies,A286 Stainless Steel Bar,true,35,5
+Precision Casting Technologies,Titanium CP Grade 2 Sheet,false,35,5
+Southwest Electronics Assembly,PCB FR-4 Laminate,true,14,25
+Southwest Electronics Assembly,Solder Wire SAC305,true,5,10
+Southwest Electronics Assembly,Mil-Spec Connectors - D38999,true,21,50
+Southwest Electronics Assembly,Conformal Coating,false,7,5
+Advanced Materials Processing,Titanium 6Al-4V Bar,false,14,5
+Advanced Materials Processing,Inconel 718 Bar,false,21,5
+Advanced Materials Processing,4130 Steel Bar,false,14,10
+Advanced Materials Processing,Tool Steel D2 Bar,false,21,10
+Tactical Systems Engineering,Hydraulic Systems,true,45,1
+Tactical Systems Engineering,Pneumatic Systems,true,45,1
+Tactical Systems Engineering,Aluminum 6061-T6 Bar,false,14,10
+Tactical Systems Engineering,PCB FR-4 Laminate,false,21,10
+Granite State Machining,Titanium 6Al-4V Bar,true,12,5
+Granite State Machining,Aluminum 7075-T6 Plate,true,7,5
+Granite State Machining,Stainless Steel 17-4PH Bar,true,10,10
+Granite State Machining,Inconel 718 Bar,false,21,5
+Composite Structures International,Carbon Fiber Prepreg,true,21,10
+Composite Structures International,Carbon Fiber Fabric,true,14,25
+Composite Structures International,Nomex Honeycomb Core,true,21,5
+Composite Structures International,Aluminum Honeycomb Core,true,21,5
+Composite Structures International,Kevlar Fabric,false,21,10
+Precision Hydraulics & Pneumatics,Hydraulic Systems,true,30,1
+Precision Hydraulics & Pneumatics,Pneumatic Systems,true,30,1
+Precision Hydraulics & Pneumatics,Stainless Steel 316L Sheet,false,14,10
+Precision Hydraulics & Pneumatics,Aluminum 6061-T6 Bar,false,10,10
+Digital Manufacturing Systems,Titanium 6Al-4V Bar,true,21,1
+Digital Manufacturing Systems,Inconel 718 Bar,true,28,1
+Digital Manufacturing Systems,Aluminum 7075-T6 Plate,true,21,1
+Digital Manufacturing Systems,Stainless Steel 17-4PH Bar,false,21,1
+Gulf Coast Alloys,Inconel 718 Bar,true,7,1
+Gulf Coast Alloys,Inconel 625 Sheet,true,7,1
+Gulf Coast Alloys,Hastelloy X Sheet,true,10,1
+Gulf Coast Alloys,Rene 41 Bar,true,14,1
+Gulf Coast Alloys,Waspaloy Bar,true,14,1
+Gulf Coast Alloys,Titanium 6Al-4V Bar,false,10,1
+Gulf Coast Alloys,Titanium 6Al-4V Sheet,false,10,1
+Northeast Metal Finishing,Aluminum 7075-T6 Plate,false,14,5
+Northeast Metal Finishing,Aluminum 2024-T3 Sheet,false,14,5
+Northeast Metal Finishing,Titanium 6Al-4V Sheet,false,21,5
+Robotic Integration Partners,Hydraulic Systems,true,45,1
+Robotic Integration Partners,Pneumatic Systems,true,45,1
+Robotic Integration Partners,Aluminum 6061-T6 Bar,false,14,10
+Precision NDT Services,Titanium 6Al-4V Bar,false,0,1
+Precision NDT Services,Inconel 718 Bar,false,0,1
+Precision NDT Services,Aluminum 7075-T6 Plate,false,0,1
+Liberty Aerospace Machining,Titanium 6Al-4V Bar,true,14,5
+Liberty Aerospace Machining,Titanium 6Al-4V Sheet,true,14,5
+Liberty Aerospace Machining,Aluminum 7075-T6 Plate,true,10,5
+Liberty Aerospace Machining,Inconel 718 Bar,false,21,5
+Advanced Ceramics Corporation,Alumina Ceramic,true,28,1
+Advanced Ceramics Corporation,Silicon Carbide Ceramic,true,35,1
+Advanced Ceramics Corporation,Boron Nitride Ceramic,true,42,1
+Advanced Ceramics Corporation,Zirconia Ceramic,false,35,1
+Southeastern Composites,Carbon Fiber Prepreg,true,21,10
+Southeastern Composites,Carbon Fiber Fabric,true,14,25
+Southeastern Composites,Fiberglass Prepreg,true,14,15
+Southeastern Composites,Kevlar Fabric,false,21,10
+Mountain View Precision,Titanium 6Al-4V Bar,true,12,5
+Mountain View Precision,Stainless Steel 17-4PH Bar,true,10,10
+Mountain View Precision,Aluminum 7075-T6 Plate,false,7,5
+Defense Supply Chain Solutions,AN3 Bolts,true,5,100
+Defense Supply Chain Solutions,AN4 Bolts,true,5,100
+Defense Supply Chain Solutions,MS20470 Rivets,true,5,500
+Defense Supply Chain Solutions,Titanium 6Al-4V Bar,true,10,1
+Defense Supply Chain Solutions,Aluminum 7075-T6 Plate,true,7,1
+Defense Supply Chain Solutions,Inconel 718 Bar,false,14,1
+Midwest Electronics Integration,PCB FR-4 Laminate,true,14,25
+Midwest Electronics Integration,Solder Wire SAC305,true,5,10
+Midwest Electronics Integration,Mil-Spec Connectors - D38999,true,21,50
+Midwest Electronics Integration,Conformal Coating,false,7,5
+Midwest Electronics Integration,Thermal Interface Material,false,7,10
+Alloy Metals & Materials,Inconel 718 Bar,true,7,1
+Alloy Metals & Materials,Inconel 625 Sheet,true,7,1
+Alloy Metals & Materials,Titanium 6Al-4V Bar,true,7,1
+Alloy Metals & Materials,Titanium 6Al-4V Sheet,true,7,1
+Alloy Metals & Materials,Hastelloy X Sheet,false,10,1
+Alloy Metals & Materials,Rene 41 Bar,false,14,1
+Coastal Machining & Fabrication,Aluminum 2024-T3 Sheet,true,10,10
+Coastal Machining & Fabrication,Stainless Steel 304L Sheet,true,10,10
+Coastal Machining & Fabrication,Aluminum 5083-H116 Plate,true,10,10
+Coastal Machining & Fabrication,Stainless Steel 316L Sheet,false,10,10
+Sierra Aerospace Components,Titanium 6Al-4V Bar,true,14,5
+Sierra Aerospace Components,Carbon Fiber Prepreg,true,21,10
+Sierra Aerospace Components,Aluminum 7075-T6 Plate,true,10,5
+Sierra Aerospace Components,Inconel 718 Bar,false,21,5
+Automated Assembly Systems,Hydraulic Systems,true,45,1
+Automated Assembly Systems,Pneumatic Systems,true,45,1
+Automated Assembly Systems,Aluminum 6061-T6 Bar,false,14,10
+Quality Heat Treating,Titanium 6Al-4V Bar,false,14,5
+Quality Heat Treating,4130 Steel Bar,false,10,10
+Quality Heat Treating,Aluminum 7075-T6 Plate,false,10,5
+Quality Heat Treating,Stainless Steel 17-4PH Bar,false,14,10
+Precision Wiring Systems,Mil-Spec Connectors - D38999,true,21,50
+Precision Wiring Systems,Safety Wire,true,5,50
+Precision Wiring Systems,Solder Wire SAC305,false,5,10
+Precision Wiring Systems,Kapton Tape,false,7,20
+Great Lakes Composites,Carbon Fiber Prepreg,true,21,10
+Great Lakes Composites,Carbon Fiber Fabric,true,14,25
+Great Lakes Composites,Fiberglass Prepreg,true,14,15
+Great Lakes Composites,Nomex Honeycomb Core,false,21,5
+Rocky Mountain Materials,Titanium 6Al-4V Bar,true,7,1
+Rocky Mountain Materials,Titanium 6Al-4V Sheet,true,7,1
+Rocky Mountain Materials,Titanium 6Al-4V Plate,true,7,1
+Rocky Mountain Materials,Inconel 718 Bar,true,10,1
+Rocky Mountain Materials,Aluminum 7075-T6 Plate,false,7,1
+Elite Precision Engineering,Titanium 6Al-4V Bar,true,12,5
+Elite Precision Engineering,Aluminum 7075-T6 Plate,true,7,5
+Elite Precision Engineering,Stainless Steel 17-4PH Bar,true,10,10
+Elite Precision Engineering,Inconel 718 Bar,false,21,5
+Elite Precision Engineering,4130 Steel Bar,false,14,10
+Patriot Fastener Corporation,AN3 Bolts,true,5,100
+Patriot Fastener Corporation,AN4 Bolts,true,5,100
+Patriot Fastener Corporation,AN5 Bolts,true,5,100
+Patriot Fastener Corporation,AN6 Bolts,true,5,100
+Patriot Fastener Corporation,MS20470 Rivets,true,5,500
+Patriot Fastener Corporation,MS20426 Rivets,true,5,500
+Patriot Fastener Corporation,NAS1351 Washers,true,5,200
+Western Welding & Assembly,Stainless Steel 304L Sheet,true,10,10
+Western Welding & Assembly,Stainless Steel 316L Sheet,true,10,10
+Western Welding & Assembly,Aluminum 5083-H116 Plate,true,10,10
+Western Welding & Assembly,Aluminum 6061-T6 Bar,false,10,10
+Defense Manufacturing Partners,Titanium 6Al-4V Bar,true,14,5
+Defense Manufacturing Partners,Aluminum 7075-T6 Plate,true,10,5
+Defense Manufacturing Partners,Stainless Steel 17-4PH Bar,true,10,10
+Defense Manufacturing Partners,PCB FR-4 Laminate,false,21,10
+Defense Manufacturing Partners,Hydraulic Systems,false,45,1
+Apex Electronics Solutions,PCB FR-4 Laminate,true,14,25
+Apex Electronics Solutions,Solder Wire SAC305,true,5,10
+Apex Electronics Solutions,Mil-Spec Connectors - D38999,true,21,50
+Apex Electronics Solutions,Conformal Coating,false,7,5
+Continental Tool & Manufacturing,4130 Steel Bar,true,14,10
+Continental Tool & Manufacturing,Tool Steel H13 Bar,true,21,10
+Continental Tool & Manufacturing,Tool Steel D2 Bar,true,21,10
+Continental Tool & Manufacturing,Stainless Steel 440C Bar,false,14,10
+Southern Aerospace Systems,Titanium 6Al-4V Bar,true,14,5
+Southern Aerospace Systems,Carbon Fiber Prepreg,true,21,10
+Southern Aerospace Systems,Aluminum 7075-T6 Plate,true,10,5
+Southern Aerospace Systems,PCB FR-4 Laminate,false,21,10
+Southern Aerospace Systems,Hydraulic Systems,false,45,1
